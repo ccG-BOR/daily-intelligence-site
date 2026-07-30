@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T16:20:25.304Z",
+  "generatedAt": "2026-07-30T16:27:31.641Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
     "自动摘要用于快速筛选，请以原文链接为准。",
     "期刊全文受版权保护；本站仅整理公开题录、摘要线索与原始访问入口。",
-    "部分来源暂时不可用，已保留可展示内容。失败来源：WHO Health Topics: 404 Not Found"
+    "部分来源暂时不可用，已保留可展示内容。失败来源：WHO Health Topics: 404 Not Found；PubMed Sleep Health: 429 Too Many Requests；PubMed Exercise Cognition: 429 Too Many Requests"
   ],
   "languages": [
     "zh",
@@ -86,546 +86,6 @@
   ],
   "items": [
     {
-      "id": "health-pubmed-42483938",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review.",
-      "titleEn": "The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Journal of the International Society of Sports Nutrition. PubMed indexed article related to PubMed Exercise Cognition.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42483938/",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": true
-    },
-    {
-      "id": "health-pubmed-42460838",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress.",
-      "titleEn": "Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Journal of the International Society of Sports Nutrition. PubMed indexed article related to PubMed Exercise Cognition.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42460838/",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42065634",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action.",
-      "titleEn": "Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "International journal of qualitative studies on health and well-being. PubMed indexed article related to PubMed Exercise Cognition.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / International journal of qualitative studies on health and well-being",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42065634/",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "International journal of qualitative studies on health and well-being",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-41870601",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: The emerging and evolving evidence supporting creatine as an ergogenic aid: history and applications.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: The emerging and evolving evidence supporting creatine as an ergogenic aid: history and applications.",
-      "titleEn": "The emerging and evolving evidence supporting creatine as an ergogenic aid: history and applications.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Journal of the International Society of Sports Nutrition. PubMed indexed article related to PubMed Exercise Cognition.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41870601/",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-41701327",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: International Society of Sports Nutrition position stand: effects of dietary antioxidants on exercise and sports performance.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: International Society of Sports Nutrition position stand: effects of dietary antioxidants on exercise and sports performance.",
-      "titleEn": "International Society of Sports Nutrition position stand: effects of dietary antioxidants on exercise and sports performance.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Journal of the International Society of Sports Nutrition. PubMed indexed article related to PubMed Exercise Cognition.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41701327/",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-41459834",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder.",
-      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder.",
-      "titleEn": "Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder.",
-      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Gut microbes. PubMed indexed article related to PubMed Sleep Health.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Sleep Health",
-      "sourceName": "PubMed Sleep Health",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Gut microbes",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41459834/",
-      "publishedAt": "2026-07-30T16:20:24.270Z",
-      "dateLabel": "collected",
-      "tags": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsZh": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsEn": [
-        "sleep",
-        "metabolism",
-        "mental health"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Gut microbes",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": true
-    },
-    {
-      "id": "health-pubmed-42231717",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
-      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
-      "titleEn": "Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
-      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Annals of medicine. PubMed indexed article related to PubMed Sleep Health.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Sleep Health",
-      "sourceName": "PubMed Sleep Health",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Annals of medicine",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42231717/",
-      "publishedAt": "2026-07-30T16:20:24.270Z",
-      "dateLabel": "collected",
-      "tags": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsZh": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsEn": [
-        "sleep",
-        "metabolism",
-        "mental health"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Annals of medicine",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42398678",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts.",
-      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts.",
-      "titleEn": "Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts.",
-      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Journal of affective disorders. PubMed indexed article related to PubMed Sleep Health.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Sleep Health",
-      "sourceName": "PubMed Sleep Health",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of affective disorders",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42398678/",
-      "publishedAt": "2026-07-30T16:20:24.270Z",
-      "dateLabel": "collected",
-      "tags": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsZh": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsEn": [
-        "sleep",
-        "metabolism",
-        "mental health"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of affective disorders",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42518733",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Molecular correlates of sleep deprivation in the mouse brain identified by meta-analysis of microarray data.",
-      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Molecular correlates of sleep deprivation in the mouse brain identified by meta-analysis of microarray data.",
-      "titleEn": "Molecular correlates of sleep deprivation in the mouse brain identified by meta-analysis of microarray data.",
-      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Neurobiology of sleep and circadian rhythms. PubMed indexed article related to PubMed Sleep Health.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Sleep Health",
-      "sourceName": "PubMed Sleep Health",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Neurobiology of sleep and circadian rhythms",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42518733/",
-      "publishedAt": "2026-07-30T16:20:24.270Z",
-      "dateLabel": "collected",
-      "tags": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsZh": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsEn": [
-        "sleep",
-        "metabolism",
-        "mental health"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Neurobiology of sleep and circadian rhythms",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42264310",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Structural and functional glymphatic abnormalities in major depressive disorder and bipolar disorder: A multimodal MRI study of DTI-ALPS and gBOLD-CSF coupling.",
-      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Structural and functional glymphatic abnormalities in major depressive disorder and bipolar disorder: A multimodal MRI study of DTI-ALPS and gBOLD-CSF coupling.",
-      "titleEn": "Structural and functional glymphatic abnormalities in major depressive disorder and bipolar disorder: A multimodal MRI study of DTI-ALPS and gBOLD-CSF coupling.",
-      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Journal of affective disorders. PubMed indexed article related to PubMed Sleep Health.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Sleep Health",
-      "sourceName": "PubMed Sleep Health",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of affective disorders",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42264310/",
-      "publishedAt": "2026-07-30T16:20:24.270Z",
-      "dateLabel": "collected",
-      "tags": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsZh": [
-        "睡眠",
-        "代谢",
-        "心理健康"
-      ],
-      "tagsEn": [
-        "sleep",
-        "metabolism",
-        "mental health"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of affective disorders",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
       "id": "health-pubmed-42462751",
       "channel": "health",
       "type": "paper",
@@ -644,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42462751/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -698,7 +158,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42413527/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +212,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42296982/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -806,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42302807/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -860,7 +320,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379201/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +374,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379199/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -968,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379203/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1022,7 +482,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42302805/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1076,7 +536,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379198/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1130,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276092/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1184,7 +644,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276091/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1238,7 +698,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42509078/",
-      "publishedAt": "2026-07-30T16:20:23.467Z",
+      "publishedAt": "2026-07-30T16:27:31.134Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1658,6 +1118,510 @@
       "highlight": false
     },
     {
+      "id": "literature-open-culture-0-a-guide-to-every-major-film-adaptation-of-homer-s-odyssey-before",
+      "channel": "literature",
+      "type": "news",
+      "title": "文学观察: A Guide to Every Major Film Adaptation of Homer’s Odyssey Before Christopher Nolan’s Movie",
+      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: A Guide to Every Major Film Adaptation of Homer’s Odyssey Before Christopher Nolan’s Movie",
+      "titleEn": "A Guide to Every Major Film Adaptation of Homer’s Odyssey Before Christopher Nolan’s Movie",
+      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "If you plan on shooting your own adaptation of Homer’s Odyssey, bear in mind how much rests on your choice of leading man. In order to play Odysseus, an actor must summon a real gravitas, but also a still-smoldering vi...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Open Culture",
+      "sourceName": "Open Culture",
+      "sourceUrl": "https://www.openculture.com/feed",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://www.openculture.com/feed",
+      "url": "https://www.openculture.com/2026/07/a-guide-to-every-major-film-adaptation-of-homers-odyssey-before-christopher-nolans-movie.html",
+      "publishedAt": "2026-07-30T09:00:22.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "文学"
+      ],
+      "tagsZh": [
+        "文学"
+      ],
+      "tagsEn": [
+        "literature"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-open-culture-1-the-visionary-mystical-art-of-carl-jung-see-illustrated-pages-fr",
+      "channel": "literature",
+      "type": "news",
+      "title": "文学观察: The Visionary Mystical Art of Carl Jung: See Illustrated Pages from The Red Book",
+      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: The Visionary Mystical Art of Carl Jung: See Illustrated Pages from The Red Book",
+      "titleEn": "The Visionary Mystical Art of Carl Jung: See Illustrated Pages from The Red Book",
+      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Carl Jung’s Liber Novus, better known as The Red Book, has come to light in a complete English translation, published by Norton in a 2009 facsimile edition and a smaller “reader’s edition” in 2012. The years since have...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Open Culture",
+      "sourceName": "Open Culture",
+      "sourceUrl": "https://www.openculture.com/feed",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://www.openculture.com/feed",
+      "url": "https://www.openculture.com/2026/07/visionary-mystical-art-of-carl-jung.html",
+      "publishedAt": "2026-07-30T08:00:02.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "翻译",
+        "图书"
+      ],
+      "tagsZh": [
+        "翻译",
+        "图书"
+      ],
+      "tagsEn": [
+        "translation",
+        "books"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-arxiv-ai-0-do-models-fake-alignment-without-clear-consequences",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Do Models Fake Alignment Without Clear Consequences?",
+      "titleEn": "Do Models Fake Alignment Without Clear Consequences?",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behavior...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "Agent",
+        "语言模型",
+        "评估"
+      ],
+      "tagsZh": [
+        "Agent",
+        "语言模型",
+        "评估"
+      ],
+      "tagsEn": [
+        "agent",
+        "language model",
+        "evaluation"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-arxiv-ai-1-beyond-memory-a-templated-substrate-for-heterogeneous-collaborative-knowledg",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "titleEn": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "Agent"
+      ],
+      "tagsZh": [
+        "Agent"
+      ],
+      "tagsEn": [
+        "agent"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-arxiv-ai-2-kernel-forge-an-agent-harness-for-llm-based-generation-and-optimization-of-c",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "titleEn": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24762v1 Announce Type: new Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "Agent",
+        "语言模型",
+        "机器学习"
+      ],
+      "tagsZh": [
+        "Agent",
+        "语言模型",
+        "机器学习"
+      ],
+      "tagsEn": [
+        "agent",
+        "language model",
+        "machine learning"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-arxiv-ai-3-care-compute-aware-remasking-evaluation-protocol-for-masked-diffusion-langua",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "titleEn": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24763v1 Announce Type: new Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "语言模型",
+        "评估"
+      ],
+      "tagsZh": [
+        "语言模型",
+        "评估"
+      ],
+      "tagsEn": [
+        "language model",
+        "evaluation"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-arxiv-ai-4-groclm-grocery-category-recommendation-in-e-commerce-with-large-language-mod",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "titleEn": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24764v1 Announce Type: new Abstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level met...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "语言模型"
+      ],
+      "tagsZh": [
+        "语言模型"
+      ],
+      "tagsEn": [
+        "language model"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-arxiv-ai-5-crystalis-progressive-nucleation-and-semantic-annealing-for-coordinated-mult",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "titleEn": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24766v1 Announce Type: new Abstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share data flows and cross-view interactions, r...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24766",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "Agent",
+        "语言模型"
+      ],
+      "tagsZh": [
+        "Agent",
+        "语言模型"
+      ],
+      "tagsEn": [
+        "agent",
+        "language model"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-arxiv-ai-6-pathfinder-agent-for-tailored-prenatal-care",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: PATHFinder Agent for Tailored Prenatal Care",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: PATHFinder Agent for Tailored Prenatal Care",
+      "titleEn": "PATHFinder Agent for Tailored Prenatal Care",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24768v1 Announce Type: new Abstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) rec...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24768",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "Agent",
+        "语言模型"
+      ],
+      "tagsZh": [
+        "Agent",
+        "语言模型"
+      ],
+      "tagsEn": [
+        "agent",
+        "language model"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-arxiv-ai-7-llm-scheming-inversely-scales-with-pretraining-language-coverage",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "summary": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "titleEn": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "summaryZh": "这条内容来自 arXiv AI，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2607.24769v1 Announce Type: new Abstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstra...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv AI",
+      "sourceName": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.AI",
+      "url": "https://arxiv.org/abs/2607.24769",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "语言模型"
+      ],
+      "tagsZh": [
+        "语言模型"
+      ],
+      "tagsEn": [
+        "language model"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
       "id": "fallback-ai-agent-tools",
       "channel": "ai",
       "type": "news",
@@ -1676,7 +1640,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
+      "publishedAt": "2026-07-30T16:27:31.641Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -1730,7 +1694,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
+      "publishedAt": "2026-07-30T16:27:31.641Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -1784,7 +1748,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
+      "publishedAt": "2026-07-30T16:27:31.641Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -1838,7 +1802,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
+      "publishedAt": "2026-07-30T16:27:31.641Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -1892,7 +1856,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-07-30T16:20:25.303Z",
+      "publishedAt": "2026-07-30T16:27:31.641Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
