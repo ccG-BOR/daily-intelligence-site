@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="healthBg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#140b0c"/>
+      <stop offset="1" stop-color="#123d37"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" rx="8" fill="url(#healthBg)"/>
+  <path d="M70 250h120l44-92 72 182 58-124 42 72h324" fill="none" stroke="#ff8d82" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="30 22;80 16;30 22" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#52f3cf" opacity=".82">
+    <circle cx="250" cy="156" r="15">
+      <animate attributeName="r" values="11;19;11" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="304" r="12">
+      <animate attributeName="r" values="9;16;9" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g stroke="#f3d66a" stroke-width="3" opacity=".5">
+    <path d="M150 90h500M150 390h500"/>
+  </g>
+</svg>

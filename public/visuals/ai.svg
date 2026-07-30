@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#071011"/>
+      <stop offset="1" stop-color="#0b3d36"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="480" rx="8" fill="url(#bg)"/>
+  <g stroke="#52f3cf" stroke-width="2" opacity=".28">
+    <path d="M60 110h680M60 190h680M60 270h680M60 350h680"/>
+    <path d="M140 60v360M280 60v360M420 60v360M560 60v360M700 60v360"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="180" cy="150" r="12" fill="#52f3cf">
+      <animate attributeName="cy" values="150;120;150" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="390" cy="245" r="18" fill="#f3d66a">
+      <animate attributeName="r" values="14;23;14" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="320" r="13" fill="#ff8d82">
+      <animate attributeName="cx" values="620;665;620" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M180 150 390 245 620 320" fill="none" stroke="#52f3cf" stroke-width="4" opacity=".75">
+      <animate attributeName="stroke-dasharray" values="10 18;26 10;10 18" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
