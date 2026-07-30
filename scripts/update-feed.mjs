@@ -313,12 +313,18 @@ function searchableTextFor(item) {
 
 export function lifeCategoryFor(item) {
   const text = searchableTextFor(item);
+
+  if (item.channel === "health") {
+    const everydayHealth = lifeCategoryDefinitions.find((definition) => definition.key === "life-health");
+    if (everydayHealth.keywords.some((keyword) => text.includes(keyword.toLowerCase()))) return everydayHealth;
+    return lifeCategoryDefinitions.find((definition) => definition.key === "medical-evidence");
+  }
+
   const category = lifeCategoryDefinitions.find((definition) =>
     definition.keywords.some((keyword) => text.includes(keyword.toLowerCase()))
   );
 
   if (category) return category;
-  if (item.channel === "health") return lifeCategoryDefinitions.find((definition) => definition.key === "medical-evidence");
   if (item.channel === "literature") return lifeCategoryDefinitions.find((definition) => definition.key === "expression-reading");
   return lifeCategoryDefinitions.find((definition) => definition.key === "study-career");
 }

@@ -74,6 +74,17 @@ test("classifies health items into student-friendly life categories", () => {
   assert.match(category.reasonZh, /睡眠|运动|饮食|生活/);
 });
 
+test("does not let expression keywords override medical health context", () => {
+  const category = lifeCategoryFor({
+    channel: "health",
+    type: "paper",
+    title: "Lived experience and global health architecture reform",
+    summary: "The Lancet Global Health public health article"
+  });
+
+  assert.equal(category.key, "medical-evidence");
+});
+
 test("creates readable on-site content instead of an empty title shell", () => {
   const content = readableContentFor({
     channel: "health",

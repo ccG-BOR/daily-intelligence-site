@@ -33,6 +33,7 @@ jobs:
       - run: pnpm update-feed
       - run: pnpm build
       - name: Save the daily collection
+        if: github.event_name != 'push'
         run: |
           git config user.name "daily-intelligence-bot"
           git config user.email "daily-intelligence-bot@users.noreply.github.com"
