@@ -5,7 +5,10 @@ import {
   journalPriority,
   safePublicationDate,
   studentGuideFor,
-  fallbackItems
+  fallbackItems,
+  lifeCategoryFor,
+  readableContentFor,
+  isUsefulStudentItem
 } from "./update-feed.mjs";
 
 test("builds a recent PubMed query for The Lancet journal family", () => {
@@ -56,4 +59,46 @@ test("keeps public educational videos available when a video feed is unavailable
 
   assert.ok(videos.length >= 2);
   assert.ok(videos.every((item) => item.studentLevel === "intro"));
+});
+
+test("classifies health items into student-friendly life categories", () => {
+  const category = lifeCategoryFor({
+    channel: "health",
+    type: "paper",
+    title: "Sleep quality, exercise, and diet in everyday health",
+    summary: "Evidence about sleep and physical activity"
+  });
+
+  assert.equal(category.key, "life-health");
+  assert.equal(category.labelZh, "生活健康");
+  assert.match(category.reasonZh, /睡眠|运动|饮食|生活/);
+});
+
+test("creates readable on-site content instead of an empty title shell", () => {
+  const content = readableContentFor({
+    channel: "health",
+    type: "paper",
+    source: "PubMed",
+    originalTitle: "Sleep and mental health in college students",
+    originalSummary: "A study about sleep quality, stress, and mental health outcomes among students.",
+    tagsZh: ["睡眠", "心理健康"],
+    tagsEn: ["sleep", "mental health"]
+  });
+
+  assert.ok(content.lifeRelevanceZh.length > 20);
+  assert.ok(content.threePointsZh.length >= 3);
+  assert.ok(content.studentTakeawayZh.length > 10);
+  assert.match(content.readOnSiteZh, /睡眠|心理|生活/);
+  assert.doesNotMatch(content.lifeRelevanceEn, /[\u4e00-\u9fff]/);
+});
+
+test("filters low-value correction notices from student-facing feeds", () => {
+  assert.equal(isUsefulStudentItem({
+    titleEn: "Correction to Lancet Glob Health 2022; 11: e1623-31.",
+    summaryEn: "Correction notice."
+  }), false);
+  assert.equal(isUsefulStudentItem({
+    titleEn: "The effect of diet and physical activity on cognitive function",
+    summaryEn: "A scoping review about lifestyle and health."
+  }), true);
 });

@@ -12,6 +12,7 @@ import {
   MapPin,
   Search,
   Sparkles,
+  X,
   Zap
 } from "lucide-react";
 import feed from "./data/daily-feed.json";
@@ -35,6 +36,8 @@ const labels = {
     live: "实时来源已刷新",
     stable: "展示稳定数据",
     search: "搜索主题、来源、关键词",
+    lifeCategories: "生活分类",
+    categoryAll: "全部生活场景",
     dailyPicks: "每日精选",
     liveFeed: "信息流",
     items: "条",
@@ -57,6 +60,14 @@ const labels = {
     collected: "本次检索",
     video: "视频",
     studyGuide: "学生导读",
+    readInside: "站内阅读",
+    openOriginal: "打开原文",
+    close: "关闭",
+    whyRelevant: "为什么和我有关",
+    threePoints: "三句话看懂",
+    suitableFor: "适合用来做什么",
+    sourceTrace: "来源追踪",
+    publicExcerpt: "公开摘要/题录",
     readingTime: "约",
     minutes: "分钟",
     levels: { intro: "入门", easy: "易读", guided: "带着问题读", advanced: "进阶" }
@@ -72,6 +83,8 @@ const labels = {
     live: "Live sources refreshed",
     stable: "Stable data shown",
     search: "Search topics, sources, keywords",
+    lifeCategories: "Life categories",
+    categoryAll: "All life scenes",
     dailyPicks: "Daily Picks",
     liveFeed: "Feed",
     items: "items",
@@ -94,6 +107,14 @@ const labels = {
     collected: "Collected",
     video: "Video",
     studyGuide: "Study guide",
+    readInside: "Read here",
+    openOriginal: "Open original",
+    close: "Close",
+    whyRelevant: "Why it matters",
+    threePoints: "Three-point read",
+    suitableFor: "Useful for",
+    sourceTrace: "Source trace",
+    publicExcerpt: "Public abstract / record",
     readingTime: "About",
     minutes: "min",
     levels: { intro: "Intro", easy: "Easy read", guided: "Guided", advanced: "Advanced" }
@@ -111,6 +132,23 @@ const languageOptions = [
   { key: "bilingual", label: "双语" }
 ];
 
+const lifeCategoryOrder = ["all", "life-health", "study-career", "expression-reading", "medical-evidence"];
+
+const fallbackLifeLabels = {
+  zh: {
+    "life-health": "生活健康",
+    "study-career": "学习就业",
+    "expression-reading": "阅读表达",
+    "medical-evidence": "医学证据"
+  },
+  en: {
+    "life-health": "Everyday health",
+    "study-career": "Study and jobs",
+    "expression-reading": "Reading and expression",
+    "medical-evidence": "Medical evidence"
+  }
+};
+
 function formatDate(value, language) {
   return new Intl.DateTimeFormat(language === "en" ? "en-US" : "zh-CN", {
     month: "2-digit",
@@ -125,16 +163,38 @@ function textFor(item, language, field) {
   return item[`${field}Zh`] ?? item[field];
 }
 
+function lifeLabelFor(key, language, sampleItem) {
+  if (key === "all") return labels[language === "en" ? "en" : "zh"].categoryAll;
+  if (language === "en") return sampleItem?.lifeCategoryEn ?? fallbackLifeLabels.en[key] ?? key;
+  return sampleItem?.lifeCategoryZh ?? fallbackLifeLabels.zh[key] ?? key;
+}
+
+function detailTextFor(item, language, field) {
+  if (language === "en") return item[`${field}En`] ?? item[`${field}Zh`] ?? "";
+  return item[`${field}Zh`] ?? item[`${field}En`] ?? "";
+}
+
 export default function App() {
   const [activeChannel, setActiveChannel] = React.useState("all");
+  const [activeLifeCategory, setActiveLifeCategory] = React.useState("all");
   const [query, setQuery] = React.useState("");
   const [language, setLanguage] = React.useState("zh");
+  const [selectedItem, setSelectedItem] = React.useState(null);
   const ui = labels[language === "en" ? "en" : "zh"];
   const normalizedQuery = query.trim().toLowerCase();
+
+  React.useEffect(() => {
+    function onKeyDown(event) {
+      if (event.key === "Escape") setSelectedItem(null);
+    }
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, []);
 
   const items = React.useMemo(() => {
     return feed.items.filter((item) => {
       const channelMatch = activeChannel === "all" || item.channel === activeChannel;
+      const lifeMatch = activeLifeCategory === "all" || item.lifeCategory === activeLifeCategory;
       const haystack = [
         item.titleZh,
         item.titleEn,
@@ -151,14 +211,34 @@ export default function App() {
         item.studentLevel,
         item.learningActionZh,
         item.learningActionEn,
+        item.lifeCategoryZh,
+        item.lifeCategoryEn,
+        item.lifeCategoryReasonZh,
+        item.lifeCategoryReasonEn,
+        item.lifeRelevanceZh,
+        item.lifeRelevanceEn,
+        item.readOnSiteZh,
+        item.readOnSiteEn,
+        item.studentTakeawayZh,
+        item.studentTakeawayEn,
+        item.useForZh,
+        item.useForEn,
+        item.originalExcerptZh,
+        item.originalExcerptEn,
+        item.searchTextZh,
+        item.searchTextEn,
         ...(item.tagsZh ?? []),
         ...(item.tagsEn ?? [])
       ].join(" ").toLowerCase();
-      return channelMatch && (!normalizedQuery || haystack.includes(normalizedQuery));
+      return channelMatch && lifeMatch && (!normalizedQuery || haystack.includes(normalizedQuery));
     });
-  }, [activeChannel, normalizedQuery]);
+  }, [activeChannel, activeLifeCategory, normalizedQuery]);
 
   const highlights = feed.items.filter((item) => item.highlight).slice(0, 6);
+  const lifeCategorySamples = React.useMemo(() => {
+    return new Map(feed.items.map((item) => [item.lifeCategory, item]));
+  }, []);
+  const activeCategoryLabel = lifeLabelFor(activeLifeCategory, language, lifeCategorySamples.get(activeLifeCategory));
   const stats = [
     { label: ui.todayItems, value: feed.items.length },
     { label: ui.picks, value: highlights.length },
@@ -228,6 +308,25 @@ export default function App() {
         </div>
       </section>
 
+      <section className="life-band" aria-label={ui.lifeCategories}>
+        <div className="life-band-heading">
+          <span>{ui.lifeCategories}</span>
+          <strong>{activeCategoryLabel}</strong>
+        </div>
+        <div className="life-tabs">
+          {lifeCategoryOrder.map((key) => (
+            <button
+              className={activeLifeCategory === key ? "life-tab active" : "life-tab"}
+              key={key}
+              onClick={() => setActiveLifeCategory(key)}
+              type="button"
+            >
+              {lifeLabelFor(key, language, lifeCategorySamples.get(key))}
+            </button>
+          ))}
+        </div>
+      </section>
+
       <section className="stats-grid" aria-label="stats">
         {stats.map((stat) => (
           <div className="stat-tile" key={stat.label}>
@@ -249,7 +348,7 @@ export default function App() {
             </div>
             <div className="highlight-grid">
               {highlights.map((item) => (
-                <ArticleCard item={item} key={item.id} language={language} ui={ui} featured />
+                <ArticleCard item={item} key={item.id} language={language} ui={ui} featured onOpen={setSelectedItem} />
               ))}
             </div>
           </section>
@@ -265,7 +364,7 @@ export default function App() {
             <div className="feed-list">
               {items.length ? (
                 items.map((item) => (
-                  <ArticleCard item={item} key={item.id} language={language} ui={ui} />
+                  <ArticleCard item={item} key={item.id} language={language} ui={ui} onOpen={setSelectedItem} />
                 ))
               ) : (
                 <div className="empty-state">
@@ -312,6 +411,9 @@ export default function App() {
           </section>
         </aside>
       </section>
+      {selectedItem && (
+        <ArticleDetail item={selectedItem} language={language} ui={ui} onClose={() => setSelectedItem(null)} />
+      )}
     </main>
   );
 }
@@ -334,7 +436,7 @@ function LanguageSwitch({ language, onChange }) {
   );
 }
 
-function ArticleCard({ item, language, ui, featured = false }) {
+function ArticleCard({ item, language, ui, featured = false, onOpen }) {
   const Icon = icons[item.channel];
   const title = textFor(item, language, "title");
   const summary = textFor(item, language, "summary");
@@ -343,6 +445,8 @@ function ArticleCard({ item, language, ui, featured = false }) {
   const credibility = language === "en" ? item.credibilityEn : item.credibilityZh;
   const isPremierJournal = item.sourceTier === "premier-journal";
   const visualUrl = `${import.meta.env.BASE_URL}${item.visual.imageUrl.replace(/^\//, "")}`;
+  const lifeCategory = language === "en" ? item.lifeCategoryEn : item.lifeCategoryZh;
+  const lifeReason = detailTextFor(item, language, "lifeCategoryReason");
 
   return (
     <article className={featured ? "article-card featured" : "article-card"}>
@@ -360,6 +464,12 @@ function ArticleCard({ item, language, ui, featured = false }) {
           <span className="type-pill">{typeLabels[language === "en" ? "en" : "zh"][item.type] ?? item.type}</span>
         </div>
       </div>
+      {lifeCategory && (
+        <div className="life-context">
+          <strong>{lifeCategory}</strong>
+          <span>{lifeReason}</span>
+        </div>
+      )}
       <h3>{title}</h3>
       {language === "bilingual" ? (
         <div className="bilingual-copy">
@@ -392,12 +502,96 @@ function ArticleCard({ item, language, ui, featured = false }) {
           <span>{item.dateLabel === "collected" ? ui.collected : formatDate(item.publishedAt, language)} / {credibility}</span>
         </div>
         <div className="footer-actions">
+          <button type="button" className="read-button" onClick={() => onOpen(item)}>
+            {ui.readInside}
+          </button>
           <a href={item.sourceUrl} target="_blank" rel="noreferrer">{ui.sourcePage}</a>
-          <a href={item.url} target="_blank" rel="noreferrer" aria-label={`${ui.original}: ${title}`}>
+          <a className="original-link" href={item.url} target="_blank" rel="noreferrer" aria-label={`${ui.original}: ${title}`}>
+            <span>{ui.original}</span>
             <ArrowUpRight size={18} />
           </a>
         </div>
       </div>
     </article>
+  );
+}
+
+function ArticleDetail({ item, language, ui, onClose }) {
+  const title = textFor(item, language, "title");
+  const tags = language === "en" ? item.tagsEn : item.tagsZh;
+  const points = language === "en" ? item.threePointsEn : item.threePointsZh;
+  const excerpt = detailTextFor(item, language, "originalExcerpt");
+
+  return (
+    <div className="detail-backdrop" role="presentation" onMouseDown={onClose}>
+      <section
+        className="detail-panel"
+        role="dialog"
+        aria-modal="true"
+        aria-label={title}
+        onMouseDown={(event) => event.stopPropagation()}
+      >
+        <div className="detail-head">
+          <div>
+            <span className={`channel-pill ${item.channel}`}>{ui[item.channel]}</span>
+            <h2>{title}</h2>
+          </div>
+          <button className="icon-button" type="button" onClick={onClose} aria-label={ui.close}>
+            <X size={20} />
+          </button>
+        </div>
+
+        <div className="detail-section emphasis">
+          <p className="eyebrow">{ui.whyRelevant}</p>
+          <p>{detailTextFor(item, language, "lifeRelevance")}</p>
+        </div>
+
+        <div className="detail-section">
+          <p className="eyebrow">{ui.threePoints}</p>
+          <ol className="point-list">
+            {(points ?? []).map((point) => (
+              <li key={point}>{point}</li>
+            ))}
+          </ol>
+        </div>
+
+        <div className="detail-section">
+          <p className="eyebrow">{ui.studyGuide}</p>
+          <p>{detailTextFor(item, language, "readOnSite")}</p>
+          <p className="takeaway">{detailTextFor(item, language, "studentTakeaway")}</p>
+        </div>
+
+        <div className="detail-section">
+          <p className="eyebrow">{ui.publicExcerpt}</p>
+          <p>{excerpt}</p>
+        </div>
+
+        <div className="detail-section">
+          <p className="eyebrow">{ui.suitableFor}</p>
+          <p>{detailTextFor(item, language, "useFor")}</p>
+          <div className="tag-row">
+            {(tags ?? []).map((tag) => (
+              <span key={tag}>{tag}</span>
+            ))}
+          </div>
+        </div>
+
+        <div className="detail-source">
+          <p className="eyebrow">{ui.sourceTrace}</p>
+          <span>{ui.sourceChannel}: {ui[item.sourceChannel]}</span>
+          {item.journal && <span>{ui.journal}: {item.journal}</span>}
+          <span>{ui.fetchMethod}: {item.fetchMethod}</span>
+          <span>{ui.foundAt}: {item.foundAt}</span>
+        </div>
+
+        <div className="detail-actions">
+          <a href={item.sourceUrl} target="_blank" rel="noreferrer">{ui.sourcePage}</a>
+          <a href={item.url} target="_blank" rel="noreferrer">
+            {ui.openOriginal}
+            <ArrowUpRight size={17} />
+          </a>
+        </div>
+      </section>
+    </div>
   );
 }

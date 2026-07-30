@@ -264,6 +264,144 @@ export function studentGuideFor(channel, type) {
   };
 }
 
+const lifeCategoryDefinitions = [
+  {
+    key: "life-health",
+    labelZh: "生活健康",
+    labelEn: "Everyday health",
+    keywords: ["sleep", "diet", "exercise", "mental", "stress", "food", "nutrition", "physical activity", "cognitive", "睡眠", "饮食", "运动", "心理", "压力"],
+    reasonZh: "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+    reasonEn: "Connected to sleep, exercise, diet, stress, or everyday health habits."
+  },
+  {
+    key: "study-career",
+    labelZh: "学习就业",
+    labelEn: "Study and jobs",
+    keywords: ["agent", "tool", "workflow", "education", "learning", "copilot", "productivity", "model", "evaluation", "AI", "学习", "就业", "工具", "效率"],
+    reasonZh: "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+    reasonEn: "Useful for AI tools, study efficiency, job changes, and digital skills."
+  },
+  {
+    key: "expression-reading",
+    labelZh: "阅读表达",
+    labelEn: "Reading and expression",
+    keywords: ["book", "novel", "poetry", "writing", "translation", "criticism", "story", "archive", "阅读", "写作", "小说", "诗歌", "表达"],
+    reasonZh: "适合提升阅读、写作、表达、文化理解和文案能力。",
+    reasonEn: "Useful for reading, writing, communication, culture, and copywriting."
+  },
+  {
+    key: "medical-evidence",
+    labelZh: "医学证据",
+    labelEn: "Medical evidence",
+    keywords: ["lancet", "clinical", "disease", "public health", "trial", "prevalence", "burden", "WHO", "CDC", "临床", "疾病", "公共卫生", "柳叶刀"],
+    reasonZh: "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。",
+    reasonEn: "Useful for disease, public health, and medical evidence, with careful interpretation."
+  }
+];
+
+function searchableTextFor(item) {
+  return [
+    item.title,
+    item.summary,
+    item.originalTitle,
+    item.originalSummary,
+    item.source,
+    ...(item.tagsZh ?? []),
+    ...(item.tagsEn ?? [])
+  ].join(" ").toLowerCase();
+}
+
+export function lifeCategoryFor(item) {
+  const text = searchableTextFor(item);
+  const category = lifeCategoryDefinitions.find((definition) =>
+    definition.keywords.some((keyword) => text.includes(keyword.toLowerCase()))
+  );
+
+  if (category) return category;
+  if (item.channel === "health") return lifeCategoryDefinitions.find((definition) => definition.key === "medical-evidence");
+  if (item.channel === "literature") return lifeCategoryDefinitions.find((definition) => definition.key === "expression-reading");
+  return lifeCategoryDefinitions.find((definition) => definition.key === "study-career");
+}
+
+function compactText(value = "", maxLength = 420) {
+  const text = stripTags(value);
+  if (text.length <= maxLength) return text;
+  return `${text.slice(0, maxLength - 1).trim()}...`;
+}
+
+function pointTemplates(item, category) {
+  const title = stripTags(item.originalTitle || item.title || "这条内容");
+  const source = item.source || item.sourceName || "公开来源";
+  const sourcePoint = `它来自 ${source}，不是随机生成的话题。`;
+  const titlePoint = `主题是“${compactText(title, 70)}”，可以先按标题判断是否和自己有关。`;
+  const limitPoint = item.channel === "health"
+    ? "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+    : "先看摘要和来源，再决定是否打开原文继续读。";
+
+  return {
+    zh: [category.reasonZh, sourcePoint, limitPoint],
+    en: [category.reasonEn, `It comes from ${source}, not from an empty topic shell.`, item.channel === "health" ? "Check population, evidence type, and limits before applying it personally." : "Read the summary and source before opening the original."]
+  };
+}
+
+export function readableContentFor(item) {
+  const category = lifeCategoryFor(item);
+  const originalSummary = compactText(item.originalSummary || item.summary || "", 900);
+  const topicZh = keywordHint(`${item.originalTitle ?? ""} ${item.originalSummary ?? ""}`, "zh");
+  const topicEn = keywordHint(`${item.originalTitle ?? ""} ${item.originalSummary ?? ""}`, "en");
+  const points = pointTemplates(item, category);
+  const title = compactText(item.originalTitle || item.title || "今日内容", 90);
+  const source = item.source || item.sourceName || "公开来源";
+  const summaryForRead = originalSummary || `${source} 提供的公开题录显示，这条内容围绕“${title}”。`;
+
+  return {
+    lifeCategory: category.key,
+    lifeCategoryZh: category.labelZh,
+    lifeCategoryEn: category.labelEn,
+    lifeCategoryReasonZh: category.reasonZh,
+    lifeCategoryReasonEn: category.reasonEn,
+    lifeRelevanceZh: `${category.reasonZh} 对大专生来说，可以把它当作“${topicZh}”相关的生活、学习或职业判断材料。`,
+    lifeRelevanceEn: `${category.reasonEn} For vocational college readers, use it as practical context for ${topicEn}.`,
+    threePointsZh: points.zh,
+    threePointsEn: points.en,
+    studentTakeawayZh: item.channel === "health"
+      ? "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。"
+      : "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+    studentTakeawayEn: item.channel === "health"
+      ? "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional."
+      : "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+    readOnSiteZh: `【站内导读】${summaryForRead} 你可以先记住三件事：${points.zh.join("；")}。`,
+    readOnSiteEn: `[On-site guide] ${summaryForRead} First remember: ${points.en.join("; ")}.`,
+    originalExcerptZh: summaryForRead,
+    originalExcerptEn: summaryForRead,
+    useForZh: item.channel === "health"
+      ? "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。"
+      : item.channel === "literature"
+        ? "适合做阅读笔记、写作素材、表达训练和文化话题积累。"
+        : "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+    useForEn: item.channel === "health"
+      ? "Good for health literacy, class discussion, and topic selection, not diagnosis."
+      : item.channel === "literature"
+        ? "Good for reading notes, writing material, communication practice, and culture topics."
+        : "Good for AI tool awareness, class presentation, employability skills, and digital literacy."
+  };
+}
+
+export function parsePubMedAbstracts(xml = "") {
+  const articles = [...xml.matchAll(/<PubmedArticle[\s\S]*?<\/PubmedArticle>/gi)].map((match) => match[0]);
+  const result = new Map();
+  for (const article of articles) {
+    const id = stripTags(matchTag(article, "PMID"));
+    const abstracts = [...article.matchAll(/<AbstractText[^>]*>([\s\S]*?)<\/AbstractText>/gi)]
+      .map((match) => stripTags(match[1]))
+      .filter(Boolean);
+    if (id && abstracts.length) {
+      result.set(id, abstracts.join(" "));
+    }
+  }
+  return result;
+}
+
 async function fetchPubMed(queryConfig) {
   const searchUrl = buildPubMedSearchUrl(queryConfig);
 
@@ -277,17 +415,28 @@ async function fetchPubMed(queryConfig) {
   summaryUrl.searchParams.set("retmode", "json");
 
   const summaryJson = JSON.parse(await fetchText(summaryUrl.toString()));
+  const abstractUrl = new URL("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi");
+  abstractUrl.searchParams.set("db", "pubmed");
+  abstractUrl.searchParams.set("id", ids.join(","));
+  abstractUrl.searchParams.set("retmode", "xml");
+  let abstractMap = new Map();
+  try {
+    abstractMap = parsePubMedAbstracts(await fetchText(abstractUrl.toString()));
+  } catch {
+    abstractMap = new Map();
+  }
   const collectedAt = new Date().toISOString();
   return ids.map((id, index) => {
     const record = summaryJson?.result?.[id] ?? {};
     const journal = record.fulljournalname || record.source || queryConfig.name;
     const isLancet = journal.toLowerCase().includes("lancet");
+    const abstract = abstractMap.get(id);
     return normalizeItem({
       id: `health-pubmed-${id}`,
       channel: "health",
       type: "paper",
       originalTitle: record.title || `PubMed article ${id}`,
-      originalSummary: `${journal}. PubMed indexed article related to ${queryConfig.name}.`,
+      originalSummary: abstract || `${journal}. PubMed indexed article related to ${queryConfig.name}.`,
       source: isLancet ? journal : queryConfig.name,
       sourceUrl: searchUrl.toString(),
       sourceChannel: "health",
@@ -313,6 +462,13 @@ function normalizeItem(item) {
   const summaryZh = summarizeZh(item.channel, summaryEn, item.source);
   const meta = channelMeta[item.channel];
   const studentGuide = studentGuideFor(item.channel, item.type);
+  const readableContent = readableContentFor({
+    ...item,
+    title: titleZh,
+    summary: summaryZh,
+    originalTitle: titleEn,
+    originalSummary: summaryEn
+  });
 
   return {
     id: slugify(item.id || item.url || titleEn),
@@ -349,6 +505,29 @@ function normalizeItem(item) {
     estimatedMinutes: studentGuide.minutes,
     learningActionZh: studentGuide.actionZh,
     learningActionEn: studentGuide.actionEn,
+    ...readableContent,
+    searchTextZh: [
+      titleZh,
+      summaryZh,
+      readableContent.lifeCategoryZh,
+      readableContent.lifeCategoryReasonZh,
+      readableContent.lifeRelevanceZh,
+      readableContent.readOnSiteZh,
+      readableContent.studentTakeawayZh,
+      readableContent.useForZh,
+      ...(item.tagsZh ?? [])
+    ].join(" "),
+    searchTextEn: [
+      titleEn,
+      summaryEn,
+      readableContent.lifeCategoryEn,
+      readableContent.lifeCategoryReasonEn,
+      readableContent.lifeRelevanceEn,
+      readableContent.readOnSiteEn,
+      readableContent.studentTakeawayEn,
+      readableContent.useForEn,
+      ...(item.tagsEn ?? [])
+    ].join(" "),
     visual: {
       imageUrl: meta.visual,
       altZh: `${meta.labelZh}频道动态视觉图`,
@@ -367,7 +546,7 @@ function summarizeEn(text, channel) {
     };
     return fallback[channel] ?? "Open the original source for the full context.";
   }
-  return text.length > 220 ? `${text.slice(0, 218)}...` : text;
+  return compactText(text, 220);
 }
 
 function titleZhFor(channel, titleEn) {
@@ -390,23 +569,26 @@ function summarizeZh(channel, summaryEn, source) {
   return templates[channel] ?? `这条内容来自 ${source}，建议打开原文继续阅读。`;
 }
 
-function keywordHint(text) {
+function keywordHint(text, locale = "zh") {
   const lower = text.toLowerCase();
   const pairs = [
-    ["sleep", "睡眠"],
-    ["exercise", "运动"],
-    ["agent", "AI Agent"],
-    ["language model", "语言模型"],
-    ["multimodal", "多模态"],
-    ["poetry", "诗歌"],
-    ["novel", "小说"],
-    ["translation", "翻译"],
-    ["public health", "公共卫生"],
-    ["mental", "心理健康"],
-    ["evaluation", "模型评估"],
-    ["data", "数据与证据"]
+    ["sleep", "睡眠", "sleep"],
+    ["exercise", "运动", "exercise"],
+    ["diet", "饮食", "diet"],
+    ["agent", "AI Agent", "AI agents"],
+    ["language model", "语言模型", "language models"],
+    ["multimodal", "多模态", "multimodal AI"],
+    ["poetry", "诗歌", "poetry"],
+    ["novel", "小说", "novels"],
+    ["translation", "翻译", "translation"],
+    ["public health", "公共卫生", "public health"],
+    ["mental", "心理健康", "mental health"],
+    ["evaluation", "模型评估", "model evaluation"],
+    ["data", "数据与证据", "data and evidence"]
   ];
-  return pairs.find(([keyword]) => lower.includes(keyword))?.[1] ?? "该领域的新进展";
+  const match = pairs.find(([keyword]) => lower.includes(keyword));
+  if (!match) return locale === "en" ? "new developments in this field" : "该领域的新进展";
+  return locale === "en" ? match[2] : match[1];
 }
 
 function tagsFor(channel, text, locale) {
@@ -518,6 +700,19 @@ function dedupe(items) {
     result.push(item);
   }
   return result;
+}
+
+export function isUsefulStudentItem(item) {
+  const text = `${item.titleEn ?? item.title ?? ""} ${item.summaryEn ?? item.summary ?? ""}`.toLowerCase();
+  const lowValuePatterns = [
+    /^correction\b/,
+    /^erratum\b/,
+    /^corrigendum\b/,
+    /correction to /,
+    /author correction/,
+    /publisher correction/
+  ];
+  return !lowValuePatterns.some((pattern) => pattern.test(text));
 }
 
 export function fallbackItems() {
@@ -636,6 +831,7 @@ async function main() {
   }
 
   const liveItems = dedupe(fetched)
+    .filter(isUsefulStudentItem)
     .sort((a, b) => b.priority - a.priority || new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, 30);
   const items = dedupe([...liveItems, ...fallbackItems()]).slice(0, 36);
