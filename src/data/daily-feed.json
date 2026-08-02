@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:35:15.870Z",
+  "generatedAt": "2026-08-02T04:37:54.595Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -104,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532078/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -185,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532077/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42413527/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42302807/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379201/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379199/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379203/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42302805/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379198/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276092/",
-      "publishedAt": "2026-08-01T04:35:15.824Z",
+      "publishedAt": "2026-08-02T04:37:54.342Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -896,7 +896,82 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-0-lit-hub-daily-july-31-2026",
+      "id": "literature-literary-hub-0-lit-hub-weekly-july-27-31-2026",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Lit Hub Weekly: July 27 – 31, 2026",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Lit Hub Weekly: July 27 – 31, 2026",
+      "titleEn": "Lit Hub Weekly: July 27 – 31, 2026",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/lit-hub-weekly-july-27-31-2026/",
+      "publishedAt": "2026-08-01T10:30:22.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "批评"
+      ],
+      "tagsZh": [
+        "批评"
+      ],
+      "tagsEn": [
+        "criticism"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "expression-reading",
+      "lifeCategoryZh": "阅读表达",
+      "lifeCategoryEn": "Reading and expression",
+      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
+      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
+      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合提升阅读、写作、表达、文化理解和文案能力。",
+        "它来自 Literary Hub，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for reading, writing, communication, culture, and copywriting.",
+        "It comes from Literary Hub, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a...",
+      "originalExcerptEn": "D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Lit Hub Weekly: July 27 – 31, 2026 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 批评",
+      "searchTextEn": "Lit Hub Weekly: July 27 – 31, 2026 D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. criticism",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-1-lit-hub-daily-july-31-2026",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Lit Hub Daily: July 31, 2026",
@@ -971,7 +1046,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-1-the-literary-film-tv-you-need-to-stream-in-august",
+      "id": "literature-literary-hub-2-the-literary-film-tv-you-need-to-stream-in-august",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: The Literary Film & TV You Need to Stream in August",
@@ -1043,10 +1118,10 @@
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "literature-literary-hub-2-jamaica-kincaid-eimear-mcbride-19-books-out-in-paperback-this-au",
+      "id": "literature-literary-hub-3-jamaica-kincaid-eimear-mcbride-19-books-out-in-paperback-this-au",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Jamaica Kincaid! Eimear McBride! 19 books out in paperback this August.",
@@ -1121,7 +1196,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-3-the-13-best-book-covers-of-july",
+      "id": "literature-literary-hub-4-the-13-best-book-covers-of-july",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: The 13 Best Book Covers of July",
@@ -1196,7 +1271,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-4-chelsea-rathburn-on-the-unexpected-beauty-of-the-research-dead-e",
+      "id": "literature-literary-hub-5-chelsea-rathburn-on-the-unexpected-beauty-of-the-research-dead-e",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Chelsea Rathburn on the Unexpected Beauty of the “Research Dead-End”",
@@ -1271,7 +1346,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-5-read-the-first-reviews-of-antoine-de-saint-exupéry-s-the-little-",
+      "id": "literature-literary-hub-6-read-the-first-reviews-of-antoine-de-saint-exupéry-s-the-little-",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Read the First Reviews of Antoine de Saint-Exupéry’s The Little Prince.",
@@ -1346,7 +1421,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-6-july-s-best-reviewed-fiction",
+      "id": "literature-literary-hub-7-july-s-best-reviewed-fiction",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: July’s Best Reviewed Fiction",
@@ -1413,81 +1488,6 @@
       "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
       "searchTextZh": "文学观察: July’s Best Reviewed Fiction 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Colson Whitehead’s Cool Machine, Sigrid Nunez’s It Will Come Back to You, and Valeria Luiselli’s Beginning Middle End all feature among the best reviewed fiction titles of the month. Brought to you by Book Marks, Lit Hu... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 图书",
       "searchTextEn": "July’s Best Reviewed Fiction Colson Whitehead’s Cool Machine, Sigrid Nunez’s It Will Come Back to You, and Valeria Luiselli’s Beginning Middle End all feature among the best reviewed fiction titles of the month. Brought to you by Book Marks, Lit Hu... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Colson Whitehead’s Cool Machine, Sigrid Nunez’s It Will Come Back to You, and Valeria Luiselli’s Beginning Middle End all feature among the best reviewed fiction titles of the month. Brought to you by Book Marks, Lit Hu... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. books",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-literary-hub-7-july-s-best-reviewed-nonfiction",
-      "channel": "literature",
-      "type": "essay",
-      "title": "文学观察: July’s Best Reviewed Nonfiction",
-      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: July’s Best Reviewed Nonfiction",
-      "titleEn": "July’s Best Reviewed Nonfiction",
-      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Literary Hub",
-      "sourceName": "Literary Hub",
-      "sourceUrl": "https://lithub.com/feed/",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://lithub.com/feed/",
-      "url": "https://lithub.com/julys-best-reviewed-nonfiction-2/",
-      "publishedAt": "2026-07-31T09:07:11.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "图书"
-      ],
-      "tagsZh": [
-        "图书"
-      ],
-      "tagsEn": [
-        "books"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "expression-reading",
-      "lifeCategoryZh": "阅读表达",
-      "lifeCategoryEn": "Reading and expression",
-      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
-      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
-      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合提升阅读、写作、表达、文化理解和文案能力。",
-        "它来自 Literary Hub，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for reading, writing, communication, culture, and copywriting.",
-        "It comes from Literary Hub, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,...",
-      "originalExcerptEn": "Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: July’s Best Reviewed Nonfiction 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 图书",
-      "searchTextEn": "July’s Best Reviewed Nonfiction Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Rachel Aviv’s You Won’t Get Free of It, David Thompson’s A Sudden Flicker of Light, and Pamela Colloff’s Catch the Devil all feature among the best reviewed nonfiction titles of the month. Brought to you by Book Marks,... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. books",
       "visual": {
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
@@ -2417,7 +2417,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-08-01T04:35:15.869Z",
+      "publishedAt": "2026-08-02T04:37:54.594Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2498,7 +2498,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-08-01T04:35:15.869Z",
+      "publishedAt": "2026-08-02T04:37:54.594Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2579,7 +2579,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-08-01T04:35:15.869Z",
+      "publishedAt": "2026-08-02T04:37:54.594Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2660,7 +2660,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-08-01T04:35:15.869Z",
+      "publishedAt": "2026-08-02T04:37:54.594Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2741,7 +2741,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-08-01T04:35:15.869Z",
+      "publishedAt": "2026-08-02T04:37:54.594Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
