@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:37:25.338Z",
+  "generatedAt": "2026-08-24T02:37:59.953Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -104,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42561983/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -185,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42561982/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624805/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624804/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624704/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624703/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575115/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575113/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42613284/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42613283/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42567175/",
-      "publishedAt": "2026-08-23T02:37:25.266Z",
+      "publishedAt": "2026-08-24T02:37:59.751Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1048,6 +1048,81 @@
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-ted-ed-technology-0-the-tragedy-of-cassandra-the-princess-who-predicted-the-fall-of-tro",
+      "channel": "ai",
+      "type": "video",
+      "title": "AI研究: The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
+      "summary": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
+      "titleEn": "The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
+      "summaryZh": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "reasonZh": "适合先通过画面和讲解建立概念，再进入更深的阅读。",
+      "reasonEn": "A visual starting point for understanding the topic before deeper reading.",
+      "source": "TED-Ed Technology",
+      "sourceName": "TED-Ed Technology",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
+      "sourceChannel": "ai",
+      "fetchMethod": "YouTube public feed",
+      "foundAt": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
+      "url": "https://www.youtube.com/watch?v=l29K-ZkARmE",
+      "publishedAt": "2026-08-22T00:54:20.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "AI"
+      ],
+      "tagsZh": [
+        "AI"
+      ],
+      "tagsEn": [
+        "AI"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "video",
+      "studentLevel": "intro",
+      "estimatedMinutes": 12,
+      "learningActionZh": "先看视频了解概念，再打开原始链接延伸阅读。",
+      "learningActionEn": "Watch first for the concept, then use the original link to explore further.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 TED-Ed Technology，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from TED-Ed Technology, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "originalExcerptEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie 这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie This item comes from an open AI source. Read the original for methods, data, and limitations. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
       },
       "highlight": true
     },
@@ -2102,81 +2177,6 @@
       "highlight": false
     },
     {
-      "id": "ai-ted-ed-technology-0-the-tragedy-of-cassandra-the-princess-who-predicted-the-fall-of-tro",
-      "channel": "ai",
-      "type": "video",
-      "title": "AI研究: The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
-      "summary": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
-      "titleEn": "The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
-      "summaryZh": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "reasonZh": "适合先通过画面和讲解建立概念，再进入更深的阅读。",
-      "reasonEn": "A visual starting point for understanding the topic before deeper reading.",
-      "source": "TED-Ed Technology",
-      "sourceName": "TED-Ed Technology",
-      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
-      "sourceChannel": "ai",
-      "fetchMethod": "YouTube public feed",
-      "foundAt": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
-      "url": "https://www.youtube.com/watch?v=l29K-ZkARmE",
-      "publishedAt": "2026-08-18T21:37:30.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "AI"
-      ],
-      "tagsZh": [
-        "AI"
-      ],
-      "tagsEn": [
-        "AI"
-      ],
-      "credibility": "公开资讯来源",
-      "credibilityZh": "公开资讯来源",
-      "credibilityEn": "Open information source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "video",
-      "studentLevel": "intro",
-      "estimatedMinutes": 12,
-      "learningActionZh": "先看视频了解概念，再打开原始链接延伸阅读。",
-      "learningActionEn": "Watch first for the concept, then use the original link to explore further.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 TED-Ed Technology，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from TED-Ed Technology, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "originalExcerptEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie 这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie This item comes from an open AI source. Read the original for methods, data, and limitations. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": true
-    },
-    {
       "id": "ai-ted-ed-technology-6-how-does-the-space-station-never-run-out-of-oxygen-alvaro-romero-ca",
       "channel": "ai",
       "type": "video",
@@ -2420,7 +2420,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-08-23T02:37:25.338Z",
+      "publishedAt": "2026-08-24T02:37:59.953Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2501,7 +2501,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-08-23T02:37:25.338Z",
+      "publishedAt": "2026-08-24T02:37:59.953Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2582,7 +2582,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-08-23T02:37:25.338Z",
+      "publishedAt": "2026-08-24T02:37:59.953Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2663,7 +2663,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-08-23T02:37:25.338Z",
+      "publishedAt": "2026-08-24T02:37:59.953Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2744,7 +2744,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-08-23T02:37:25.338Z",
+      "publishedAt": "2026-08-24T02:37:59.953Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
