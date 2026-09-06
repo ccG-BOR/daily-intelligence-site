@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T05:45:55.430Z",
+  "generatedAt": "2026-09-06T05:57:46.789Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -104,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685764/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -185,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685733/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685732/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42561983/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42561982/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624805/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624804/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624704/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624703/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636850/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636849/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -995,7 +995,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636848/",
-      "publishedAt": "2026-09-05T05:45:55.148Z",
+      "publishedAt": "2026-09-06T05:57:46.753Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1058,7 +1058,82 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-0-this-week-s-news-in-venn-diagrams",
+      "id": "literature-literary-hub-0-lit-hub-weekly-august-31-september-4-2026",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Lit Hub Weekly: August 31 – September 4, 2026",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Lit Hub Weekly: August 31 – September 4, 2026",
+      "titleEn": "Lit Hub Weekly: August 31 – September 4, 2026",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/lit-hub-weekly-august-31-september-4-2026/",
+      "publishedAt": "2026-09-05T10:30:41.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "小说"
+      ],
+      "tagsZh": [
+        "小说"
+      ],
+      "tagsEn": [
+        "novel"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“小说”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for novels.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 Literary Hub，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from Literary Hub, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa...",
+      "originalExcerptEn": "Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Lit Hub Weekly: August 31 – September 4, 2026 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“小说”相关的生活、学习或职业判断材料。 【站内导读】Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 小说",
+      "searchTextEn": "Lit Hub Weekly: August 31 – September 4, 2026 Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for novels. [On-site guide] Marlon James tells Eric Olson about (finally!) writing a novel that draws from his life. | Lit Hub In Conversation “Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propa... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. novel",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-1-this-week-s-news-in-venn-diagrams",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: This week’s news in Venn diagrams.",
@@ -1133,7 +1208,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-1-here-s-what-s-making-us-happy-this-week",
+      "id": "literature-literary-hub-2-here-s-what-s-making-us-happy-this-week",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Here’s what’s making us happy this week.",
@@ -1205,10 +1280,10 @@
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "literature-literary-hub-2-lit-hub-daily-september-4-2026",
+      "id": "literature-literary-hub-3-lit-hub-daily-september-4-2026",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Lit Hub Daily: September 4, 2026",
@@ -1283,7 +1358,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-3-is-time-even-real-does-it-even-flow",
+      "id": "literature-literary-hub-4-is-time-even-real-does-it-even-flow",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Is Time Even Real? Does It Even Flow?",
@@ -1358,7 +1433,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-4-how-to-get-over-the-hump-of-writing-sex",
+      "id": "literature-literary-hub-5-how-to-get-over-the-hump-of-writing-sex",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: How to Get Over the Hump of Writing Sex",
@@ -1433,7 +1508,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-5-10-literary-science-fiction-and-fantasy-novels-that-offer-hope-f",
+      "id": "literature-literary-hub-6-10-literary-science-fiction-and-fantasy-novels-that-offer-hope-f",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: 10 Literary Science Fiction and Fantasy Novels That Offer Hope for the Future",
@@ -1508,7 +1583,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-6-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
+      "id": "literature-literary-hub-7-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: What Should You Read Next? Here Are the Best Reviewed Books of the Week",
@@ -1575,81 +1650,6 @@
       "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
       "searchTextZh": "文学观察: What Should You Read Next? Here Are the Best Reviewed Books of the Week 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Marlon James’ The Disappearers, Jon Ronson’s The Castle, Chloe Benjamin’s Under Story, and Emily Wilson’s Crossing the Wine Dark Sea all feature among the best reviewed books of the month. Brought to you by Book Marks,... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 图书",
       "searchTextEn": "What Should You Read Next? Here Are the Best Reviewed Books of the Week Marlon James’ The Disappearers, Jon Ronson’s The Castle, Chloe Benjamin’s Under Story, and Emily Wilson’s Crossing the Wine Dark Sea all feature among the best reviewed books of the month. Brought to you by Book Marks,... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Marlon James’ The Disappearers, Jon Ronson’s The Castle, Chloe Benjamin’s Under Story, and Emily Wilson’s Crossing the Wine Dark Sea all feature among the best reviewed books of the month. Brought to you by Book Marks,... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. books",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-literary-hub-7-how-fordism-and-fascism-gave-birth-to-modern-car-culture",
-      "channel": "literature",
-      "type": "essay",
-      "title": "文学观察: How Fordism and Fascism Gave Birth to Modern Car Culture",
-      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: How Fordism and Fascism Gave Birth to Modern Car Culture",
-      "titleEn": "How Fordism and Fascism Gave Birth to Modern Car Culture",
-      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Literary Hub",
-      "sourceName": "Literary Hub",
-      "sourceUrl": "https://lithub.com/feed/",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://lithub.com/feed/",
-      "url": "https://lithub.com/how-fordism-and-fascism-gave-birth-to-modern-car-culture/",
-      "publishedAt": "2026-09-04T09:08:33.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "expression-reading",
-      "lifeCategoryZh": "阅读表达",
-      "lifeCategoryEn": "Reading and expression",
-      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
-      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
-      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合提升阅读、写作、表达、文化理解和文案能力。",
-        "它来自 Literary Hub，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for reading, writing, communication, culture, and copywriting.",
-        "It comes from Literary Hub, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,...",
-      "originalExcerptEn": "In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: How Fordism and Fascism Gave Birth to Modern Car Culture 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "How Fordism and Fascism Gave Birth to Modern Car Culture In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] In 1934, writing from his prison cell, Antonio Gramsci reflected on the sweeping transformations reshaping industrial production in the United States. The rise of the automobile and the wider Fordist factory, he argued,... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
       "visual": {
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
@@ -2426,7 +2426,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-09-05T05:45:55.429Z",
+      "publishedAt": "2026-09-06T05:57:46.789Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2507,7 +2507,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-09-05T05:45:55.429Z",
+      "publishedAt": "2026-09-06T05:57:46.789Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2588,7 +2588,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-09-05T05:45:55.429Z",
+      "publishedAt": "2026-09-06T05:57:46.789Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2669,7 +2669,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-09-05T05:45:55.429Z",
+      "publishedAt": "2026-09-06T05:57:46.789Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2750,7 +2750,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-09-05T05:45:55.429Z",
+      "publishedAt": "2026-09-06T05:57:46.789Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
