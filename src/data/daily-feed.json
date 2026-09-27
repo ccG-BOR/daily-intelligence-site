@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:10:13.119Z",
+  "generatedAt": "2026-09-27T06:37:03.212Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -86,6 +86,411 @@
   ],
   "items": [
     {
+      "id": "health-pubmed-41459834",
+      "channel": "health",
+      "type": "paper",
+      "title": "医学健康文献: Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder.",
+      "summary": "这条内容来自 PubMed Sleep Health，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "titleZh": "医学健康文献: Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder.",
+      "titleEn": "Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder.",
+      "summaryZh": "这条内容来自 PubMed Sleep Health，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "summaryEn": "Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie...",
+      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
+      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
+      "source": "PubMed Sleep Health",
+      "sourceName": "PubMed Sleep Health",
+      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
+      "sourceChannel": "health",
+      "fetchMethod": "PubMed API",
+      "foundAt": "PubMed / Gut microbes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41459834/",
+      "publishedAt": "2026-09-27T06:37:03.155Z",
+      "dateLabel": "collected",
+      "tags": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsZh": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsEn": [
+        "sleep",
+        "metabolism",
+        "mental health"
+      ],
+      "credibility": "医学文献索引",
+      "credibilityZh": "医学文献索引",
+      "credibilityEn": "Medical literature index",
+      "journal": "Gut microbes",
+      "sourceTier": "medical-index",
+      "priority": 10,
+      "sourceFormat": "article",
+      "studentLevel": "guided",
+      "estimatedMinutes": 15,
+      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
+      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
+      "lifeCategory": "life-health",
+      "lifeCategoryZh": "生活健康",
+      "lifeCategoryEn": "Everyday health",
+      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“睡眠”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for sleep.",
+      "threePointsZh": [
+        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+        "它来自 PubMed Sleep Health，不是随机生成的话题。",
+        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+      ],
+      "threePointsEn": [
+        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+        "It comes from PubMed Sleep Health, not from an empty topic shell.",
+        "Check population, evidence type, and limits before applying it personally."
+      ],
+      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
+      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
+      "readOnSiteZh": "【站内导读】Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
+      "readOnSiteEn": "[On-site guide] Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
+      "originalExcerptZh": "Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie...",
+      "originalExcerptEn": "Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie...",
+      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
+      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
+      "searchTextZh": "医学健康文献: Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder. 这条内容来自 PubMed Sleep Health，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“睡眠”相关的生活、学习或职业判断材料。 【站内导读】Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 睡眠 代谢 心理健康",
+      "searchTextEn": "Role and mechanism of gut microbiota and metabolites in schizophrenia complicated with sleep disorder. Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for sleep. [On-site guide] Schizophrenia (SCZ) is a major mental disorder with a high disability rate, and its pathogenesis involves the interaction of multiple factors such as genetics, environment, immunity, and neurodevelopment. Most SCZ patie... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. sleep metabolism mental health",
+      "visual": {
+        "imageUrl": "/visuals/health.svg",
+        "altZh": "医学健康频道动态视觉图",
+        "altEn": "Medical Health animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "health-pubmed-42231717",
+      "channel": "health",
+      "type": "paper",
+      "title": "医学健康文献: Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
+      "summary": "这条内容来自 PubMed Sleep Health，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "titleZh": "医学健康文献: Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
+      "titleEn": "Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
+      "summaryZh": "这条内容来自 PubMed Sleep Health，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "summaryEn": "Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys...",
+      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
+      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
+      "source": "PubMed Sleep Health",
+      "sourceName": "PubMed Sleep Health",
+      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
+      "sourceChannel": "health",
+      "fetchMethod": "PubMed API",
+      "foundAt": "PubMed / Annals of medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42231717/",
+      "publishedAt": "2026-09-27T06:37:03.155Z",
+      "dateLabel": "collected",
+      "tags": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsZh": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsEn": [
+        "sleep",
+        "metabolism",
+        "mental health"
+      ],
+      "credibility": "医学文献索引",
+      "credibilityZh": "医学文献索引",
+      "credibilityEn": "Medical literature index",
+      "journal": "Annals of medicine",
+      "sourceTier": "medical-index",
+      "priority": 10,
+      "sourceFormat": "article",
+      "studentLevel": "guided",
+      "estimatedMinutes": 15,
+      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
+      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
+      "lifeCategory": "life-health",
+      "lifeCategoryZh": "生活健康",
+      "lifeCategoryEn": "Everyday health",
+      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“心理健康”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for mental health.",
+      "threePointsZh": [
+        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+        "它来自 PubMed Sleep Health，不是随机生成的话题。",
+        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+      ],
+      "threePointsEn": [
+        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+        "It comes from PubMed Sleep Health, not from an empty topic shell.",
+        "Check population, evidence type, and limits before applying it personally."
+      ],
+      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
+      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
+      "readOnSiteZh": "【站内导读】Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
+      "readOnSiteEn": "[On-site guide] Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
+      "originalExcerptZh": "Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys...",
+      "originalExcerptEn": "Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys...",
+      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
+      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
+      "searchTextZh": "医学健康文献: Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers. 这条内容来自 PubMed Sleep Health，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“心理健康”相关的生活、学习或职业判断材料。 【站内导读】Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 睡眠 代谢 心理健康",
+      "searchTextEn": "Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers. Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for mental health. [On-site guide] Major Depressive Disorder (MDD) has emerged as a leading cause of disability worldwide, affecting over 264 million people. Recent evidence reveals that disruption of circadian rhythms may be fundamental to MDD pathophys... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. sleep metabolism mental health",
+      "visual": {
+        "imageUrl": "/visuals/health.svg",
+        "altZh": "医学健康频道动态视觉图",
+        "altEn": "Medical Health animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "health-pubmed-42398678",
+      "channel": "health",
+      "type": "paper",
+      "title": "医学健康文献: Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts.",
+      "summary": "这条内容来自 PubMed Sleep Health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "titleZh": "医学健康文献: Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts.",
+      "titleEn": "Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts.",
+      "summaryZh": "这条内容来自 PubMed Sleep Health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "summaryEn": "Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over...",
+      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
+      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
+      "source": "PubMed Sleep Health",
+      "sourceName": "PubMed Sleep Health",
+      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
+      "sourceChannel": "health",
+      "fetchMethod": "PubMed API",
+      "foundAt": "PubMed / Journal of affective disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398678/",
+      "publishedAt": "2026-09-27T06:37:03.155Z",
+      "dateLabel": "collected",
+      "tags": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsZh": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsEn": [
+        "sleep",
+        "metabolism",
+        "mental health"
+      ],
+      "credibility": "医学文献索引",
+      "credibilityZh": "医学文献索引",
+      "credibilityEn": "Medical literature index",
+      "journal": "Journal of affective disorders",
+      "sourceTier": "medical-index",
+      "priority": 10,
+      "sourceFormat": "article",
+      "studentLevel": "guided",
+      "estimatedMinutes": 15,
+      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
+      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
+      "lifeCategory": "life-health",
+      "lifeCategoryZh": "生活健康",
+      "lifeCategoryEn": "Everyday health",
+      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+        "它来自 PubMed Sleep Health，不是随机生成的话题。",
+        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+      ],
+      "threePointsEn": [
+        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+        "It comes from PubMed Sleep Health, not from an empty topic shell.",
+        "Check population, evidence type, and limits before applying it personally."
+      ],
+      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
+      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
+      "readOnSiteZh": "【站内导读】Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
+      "readOnSiteEn": "[On-site guide] Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
+      "originalExcerptZh": "Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over...",
+      "originalExcerptEn": "Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over...",
+      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
+      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
+      "searchTextZh": "医学健康文献: Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts. 这条内容来自 PubMed Sleep Health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 睡眠 代谢 心理健康",
+      "searchTextEn": "Long-term trajectories of basal metabolic rate and risk of depressive symptoms: evidence from three large population-based cohorts. Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Depressive symptoms are a significant health concern among middle-aged and older adults. While previous studies have linked lower basal metabolic rate (BMR) to higher depression risk, the impact of BMR trajectories over... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. sleep metabolism mental health",
+      "visual": {
+        "imageUrl": "/visuals/health.svg",
+        "altZh": "医学健康频道动态视觉图",
+        "altEn": "Medical Health animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "health-pubmed-42760594",
+      "channel": "health",
+      "type": "paper",
+      "title": "医学健康文献: Glial Dysfunction and Memory Impairments in a Model of Pediatric Obstructive Sleep Apnea.",
+      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "titleZh": "医学健康文献: Glial Dysfunction and Memory Impairments in a Model of Pediatric Obstructive Sleep Apnea.",
+      "titleEn": "Glial Dysfunction and Memory Impairments in a Model of Pediatric Obstructive Sleep Apnea.",
+      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "summaryEn": "Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un...",
+      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
+      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
+      "source": "PubMed Sleep Health",
+      "sourceName": "PubMed Sleep Health",
+      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
+      "sourceChannel": "health",
+      "fetchMethod": "PubMed API",
+      "foundAt": "PubMed / Glia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760594/",
+      "publishedAt": "2026-09-27T06:37:03.155Z",
+      "dateLabel": "collected",
+      "tags": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsZh": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsEn": [
+        "sleep",
+        "metabolism",
+        "mental health"
+      ],
+      "credibility": "医学文献索引",
+      "credibilityZh": "医学文献索引",
+      "credibilityEn": "Medical literature index",
+      "journal": "Glia",
+      "sourceTier": "medical-index",
+      "priority": 10,
+      "sourceFormat": "article",
+      "studentLevel": "guided",
+      "estimatedMinutes": 15,
+      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
+      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
+      "lifeCategory": "life-health",
+      "lifeCategoryZh": "生活健康",
+      "lifeCategoryEn": "Everyday health",
+      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“睡眠”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for sleep.",
+      "threePointsZh": [
+        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+        "它来自 PubMed Sleep Health，不是随机生成的话题。",
+        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+      ],
+      "threePointsEn": [
+        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+        "It comes from PubMed Sleep Health, not from an empty topic shell.",
+        "Check population, evidence type, and limits before applying it personally."
+      ],
+      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
+      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
+      "readOnSiteZh": "【站内导读】Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
+      "readOnSiteEn": "[On-site guide] Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
+      "originalExcerptZh": "Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un...",
+      "originalExcerptEn": "Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un...",
+      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
+      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
+      "searchTextZh": "医学健康文献: Glial Dysfunction and Memory Impairments in a Model of Pediatric Obstructive Sleep Apnea. 这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“睡眠”相关的生活、学习或职业判断材料。 【站内导读】Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 睡眠 代谢 心理健康",
+      "searchTextEn": "Glial Dysfunction and Memory Impairments in a Model of Pediatric Obstructive Sleep Apnea. Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for sleep. [On-site guide] Pediatric obstructive sleep apnea (POSA) is a common childhood disease that often causes aberrant brain development and cognitive deficits. The pathophysiological underpinnings of cognitive impairments in POSA remain un... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. sleep metabolism mental health",
+      "visual": {
+        "imageUrl": "/visuals/health.svg",
+        "altZh": "医学健康频道动态视觉图",
+        "altEn": "Medical Health animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "health-pubmed-42692736",
+      "channel": "health",
+      "type": "paper",
+      "title": "医学健康文献: Skipjack tuna peptides exert sleep-promoting effects by regulating neurotransmitter metabolism in pentobarbital sodium-induced mice.",
+      "summary": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "titleZh": "医学健康文献: Skipjack tuna peptides exert sleep-promoting effects by regulating neurotransmitter metabolism in pentobarbital sodium-induced mice.",
+      "titleEn": "Skipjack tuna peptides exert sleep-promoting effects by regulating neurotransmitter metabolism in pentobarbital sodium-induced mice.",
+      "summaryZh": "这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "summaryEn": "It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G...",
+      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
+      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
+      "source": "PubMed Sleep Health",
+      "sourceName": "PubMed Sleep Health",
+      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28sleep+metabolic+mental+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
+      "sourceChannel": "health",
+      "fetchMethod": "PubMed API",
+      "foundAt": "PubMed / Food research international (Ottawa, Ont.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692736/",
+      "publishedAt": "2026-09-27T06:37:03.155Z",
+      "dateLabel": "collected",
+      "tags": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsZh": [
+        "睡眠",
+        "代谢",
+        "心理健康"
+      ],
+      "tagsEn": [
+        "sleep",
+        "metabolism",
+        "mental health"
+      ],
+      "credibility": "医学文献索引",
+      "credibilityZh": "医学文献索引",
+      "credibilityEn": "Medical literature index",
+      "journal": "Food research international (Ottawa, Ont.)",
+      "sourceTier": "medical-index",
+      "priority": 10,
+      "sourceFormat": "article",
+      "studentLevel": "guided",
+      "estimatedMinutes": 15,
+      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
+      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
+      "lifeCategory": "life-health",
+      "lifeCategoryZh": "生活健康",
+      "lifeCategoryEn": "Everyday health",
+      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“睡眠”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for sleep.",
+      "threePointsZh": [
+        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+        "它来自 PubMed Sleep Health，不是随机生成的话题。",
+        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+      ],
+      "threePointsEn": [
+        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+        "It comes from PubMed Sleep Health, not from an empty topic shell.",
+        "Check population, evidence type, and limits before applying it personally."
+      ],
+      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
+      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
+      "readOnSiteZh": "【站内导读】It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
+      "readOnSiteEn": "[On-site guide] It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
+      "originalExcerptZh": "It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G...",
+      "originalExcerptEn": "It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G...",
+      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
+      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
+      "searchTextZh": "医学健康文献: Skipjack tuna peptides exert sleep-promoting effects by regulating neurotransmitter metabolism in pentobarbital sodium-induced mice. 这条内容来自 PubMed Sleep Health，与 睡眠 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“睡眠”相关的生活、学习或职业判断材料。 【站内导读】It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Sleep Health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 睡眠 代谢 心理健康",
+      "searchTextEn": "Skipjack tuna peptides exert sleep-promoting effects by regulating neurotransmitter metabolism in pentobarbital sodium-induced mice. It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for sleep. [On-site guide] It is estimated that sleep disorders affect approximately 35% of the global population, thus becoming the second most prevalent mental health disorder. In this work, the sleep-promoting effect of skipjack tuna peptide G... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Sleep Health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. sleep metabolism mental health",
+      "visual": {
+        "imageUrl": "/visuals/health.svg",
+        "altZh": "医学健康频道动态视觉图",
+        "altEn": "Medical Health animated visual"
+      },
+      "highlight": false
+    },
+    {
       "id": "health-pubmed-42785340",
       "channel": "health",
       "type": "paper",
@@ -104,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785340/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -185,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685764/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624805/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624804/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636850/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636849/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +995,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636848/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +1076,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575115/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +1157,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575113/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +1238,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42673986/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +1319,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777751/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -995,7 +1400,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777750/",
-      "publishedAt": "2026-09-26T06:10:13.068Z",
+      "publishedAt": "2026-09-27T06:37:00.389Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1054,6 +1459,81 @@
         "imageUrl": "/visuals/health.svg",
         "altZh": "医学健康频道动态视觉图",
         "altEn": "Medical Health animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-0-lit-hub-weekly-september-21-25-2026",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Lit Hub Weekly: September 21 – 25, 2026",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Lit Hub Weekly: September 21 – 25, 2026",
+      "titleEn": "Lit Hub Weekly: September 21 – 25, 2026",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” |",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/lit-hub-weekly-september-21-25-2026/",
+      "publishedAt": "2026-09-26T10:30:04.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "图书"
+      ],
+      "tagsZh": [
+        "图书"
+      ],
+      "tagsEn": [
+        "books"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 Literary Hub，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from Literary Hub, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” | 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” | First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” |",
+      "originalExcerptEn": "During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” |",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Lit Hub Weekly: September 21 – 25, 2026 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” | 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 图书",
+      "searchTextEn": "Lit Hub Weekly: September 21 – 25, 2026 During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” | Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] During the season of big books, how do you choose one to read? With a flowchart, obviously. | Lit Hub Ed Simon explores the limits of language to understand why “pain makes poor poets out of all of us.” | First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. books",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
       },
       "highlight": true
     },
@@ -1133,7 +1613,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-0-booksellers-are-sounding-the-alarm-over-trump-s-anti-antifascist",
+      "id": "literature-literary-hub-1-booksellers-are-sounding-the-alarm-over-trump-s-anti-antifascist",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Booksellers are sounding the alarm over Trump’s anti-antifascist presidential memo.",
@@ -1208,7 +1688,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-1-have-they-ruined-our-beloved-scholastic-book-fair",
+      "id": "literature-literary-hub-2-have-they-ruined-our-beloved-scholastic-book-fair",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Have They Ruined Our Beloved Scholastic Book Fair?",
@@ -1280,10 +1760,10 @@
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "literature-literary-hub-2-lit-hub-daily-september-25-2026",
+      "id": "literature-literary-hub-3-lit-hub-daily-september-25-2026",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Lit Hub Daily: September 25, 2026",
@@ -1358,7 +1838,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-3-a-prophetic-classic-about-the-dangers-of-tech-is-back-in-print",
+      "id": "literature-literary-hub-4-a-prophetic-classic-about-the-dangers-of-tech-is-back-in-print",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: A Prophetic Classic About the Dangers of Tech is Back in Print",
@@ -1433,7 +1913,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-4-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
+      "id": "literature-literary-hub-5-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: What Should You Read Next? Here Are the Best Reviewed Books of the Week",
@@ -1508,7 +1988,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-5-got-writer-s-block-go-to-the-theater",
+      "id": "literature-literary-hub-6-got-writer-s-block-go-to-the-theater",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Got Writer’s Block? Go to the Theater!",
@@ -1583,7 +2063,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-6-remembering-grazia-deledda-the-sardinian-nobel-prize-winner-we-s",
+      "id": "literature-literary-hub-7-remembering-grazia-deledda-the-sardinian-nobel-prize-winner-we-s",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Remembering Grazia Deledda, the Sardinian Nobel Prize-Winner We Should All Be Reading",
@@ -1650,81 +2130,6 @@
       "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
       "searchTextZh": "文学观察: Remembering Grazia Deledda, the Sardinian Nobel Prize-Winner We Should All Be Reading 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】“Cross the sea,” a young Grazia Deledda wrote in a poem to Americans in 1893, “and tell everyone that the island of Sardinia is still waiting to be discovered and known.” On the 100th anniversary of her Nobel Prize for... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
       "searchTextEn": "Remembering Grazia Deledda, the Sardinian Nobel Prize-Winner We Should All Be Reading “Cross the sea,” a young Grazia Deledda wrote in a poem to Americans in 1893, “and tell everyone that the island of Sardinia is still waiting to be discovered and known.” On the 100th anniversary of her Nobel Prize for... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] “Cross the sea,” a young Grazia Deledda wrote in a poem to Americans in 1893, “and tell everyone that the island of Sardinia is still waiting to be discovered and known.” On the 100th anniversary of her Nobel Prize for... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-literary-hub-7-ode-to-a-leaf-blower-a-poem-by-jill-bialosky",
-      "channel": "literature",
-      "type": "essay",
-      "title": "文学观察: “Ode to a Leaf Blower,” a Poem by Jill Bialosky",
-      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: “Ode to a Leaf Blower,” a Poem by Jill Bialosky",
-      "titleEn": "“Ode to a Leaf Blower,” a Poem by Jill Bialosky",
-      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Literary Hub",
-      "sourceName": "Literary Hub",
-      "sourceUrl": "https://lithub.com/feed/",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://lithub.com/feed/",
-      "url": "https://lithub.com/ode-to-a-leaf-blower-a-poem-by-jill-bialosky/",
-      "publishedAt": "2026-09-25T09:07:42.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 Literary Hub，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from Literary Hub, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea...",
-      "originalExcerptEn": "Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: “Ode to a Leaf Blower,” a Poem by Jill Bialosky 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "“Ode to a Leaf Blower,” a Poem by Jill Bialosky Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Leaves tangled & braided in limp limbs of the still surviving perennials, our yard a battlefield of trees towering at least seventy feet high, squeezing out the sun, & slowly letting go of their dead. I suited up in jea... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
       "visual": {
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
@@ -2033,381 +2438,6 @@
       "highlight": false
     },
     {
-      "id": "ai-mit-ai-news-2-the-promise-and-peril-of-using-visual-ai-to-study-cities",
-      "channel": "ai",
-      "type": "news",
-      "title": "AI研究: The promise and peril of using visual AI to study cities",
-      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: The promise and peril of using visual AI to study cities",
-      "titleEn": "The promise and peril of using visual AI to study cities",
-      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
-      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
-      "reasonEn": "Useful for understanding how AI moves from research into products.",
-      "source": "MIT AI News",
-      "sourceName": "MIT AI News",
-      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "sourceChannel": "ai",
-      "fetchMethod": "RSS",
-      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "AI"
-      ],
-      "tagsZh": [
-        "AI"
-      ],
-      "tagsEn": [
-        "AI"
-      ],
-      "credibility": "公开资讯来源",
-      "credibilityZh": "公开资讯来源",
-      "credibilityEn": "Open information source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 6,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 MIT AI News，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from MIT AI News, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
-      "originalExcerptEn": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: The promise and peril of using visual AI to study cities 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "The promise and peril of using visual AI to study cities In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "ai-mit-ai-news-3-mit-welcomes-david-siegel-sm-86-phd-91-as-its-next-innovation-fellow",
-      "channel": "ai",
-      "type": "news",
-      "title": "AI研究: MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-      "titleEn": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
-      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
-      "reasonEn": "Useful for understanding how AI moves from research into products.",
-      "source": "MIT AI News",
-      "sourceName": "MIT AI News",
-      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "sourceChannel": "ai",
-      "fetchMethod": "RSS",
-      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-      "publishedAt": "2026-09-23T15:30:00.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "AI"
-      ],
-      "tagsZh": [
-        "AI"
-      ],
-      "tagsEn": [
-        "AI"
-      ],
-      "credibility": "公开资讯来源",
-      "credibilityZh": "公开资讯来源",
-      "credibilityEn": "Open information source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 6,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 MIT AI News，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from MIT AI News, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
-      "originalExcerptEn": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-open-culture-3-when-salvador-dalí-gave-a-surrealist-lecture-in-a-diving-suit-an",
-      "channel": "literature",
-      "type": "news",
-      "title": "文学观察: When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936)",
-      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936)",
-      "titleEn": "When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936)",
-      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Open Culture",
-      "sourceName": "Open Culture",
-      "sourceUrl": "https://www.openculture.com/feed",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://www.openculture.com/feed",
-      "url": "https://www.openculture.com/2026/09/when-salvador-dali-gave-a-surrealist-lecture-in-a-diving-suit-and-almost-suffocated-1936.html",
-      "publishedAt": "2026-09-23T09:00:34.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "expression-reading",
-      "lifeCategoryZh": "阅读表达",
-      "lifeCategoryEn": "Reading and expression",
-      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
-      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
-      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合提升阅读、写作、表达、文化理解和文案能力。",
-        "它来自 Open Culture，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for reading, writing, communication, culture, and copywriting.",
-        "It comes from Open Culture, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big...",
-      "originalExcerptEn": "Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936) 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936) Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Image by Library of Congress/Carl Van Vechten, via Wikimedia Commons Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-open-culture-4-watch-interplanetary-revolution-1924-the-most-bizarre-soviet-ani",
-      "channel": "literature",
-      "type": "news",
-      "title": "文学观察: Watch Interplanetary Revolution (1924): The Most Bizarre Soviet Animated Propaganda Film You’ll Ever See",
-      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: Watch Interplanetary Revolution (1924): The Most Bizarre Soviet Animated Propaganda Film You’ll Ever See",
-      "titleEn": "Watch Interplanetary Revolution (1924): The Most Bizarre Soviet Animated Propaganda Film You’ll Ever See",
-      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Open Culture",
-      "sourceName": "Open Culture",
-      "sourceUrl": "https://www.openculture.com/feed",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://www.openculture.com/feed",
-      "url": "https://www.openculture.com/2026/09/interplanetary-revolution-1924-the-most-bizarre-soviet-animated-propaganda-film.html",
-      "publishedAt": "2026-09-23T08:00:07.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 Open Culture，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from Open Culture, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not...",
-      "originalExcerptEn": "In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: Watch Interplanetary Revolution (1924): The Most Bizarre Soviet Animated Propaganda Film You’ll Ever See 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "Watch Interplanetary Revolution (1924): The Most Bizarre Soviet Animated Propaganda Film You’ll Ever See In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "ai-mit-ai-news-4-poitras-center-to-fuel-early-careers-of-50-young-scientists-dedicated-to-",
-      "channel": "ai",
-      "type": "news",
-      "title": "AI研究: Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "summary": "这条内容来自 MIT AI News，主题聚焦 心理健康。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "titleEn": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 心理健康。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
-      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
-      "reasonEn": "Useful for understanding how AI moves from research into products.",
-      "source": "MIT AI News",
-      "sourceName": "MIT AI News",
-      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "sourceChannel": "ai",
-      "fetchMethod": "RSS",
-      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-      "publishedAt": "2026-09-22T19:00:00.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "AI"
-      ],
-      "tagsZh": [
-        "AI"
-      ],
-      "tagsEn": [
-        "AI"
-      ],
-      "credibility": "公开资讯来源",
-      "credibilityZh": "公开资讯来源",
-      "credibilityEn": "Open information source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 6,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“心理健康”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for mental health.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 MIT AI News，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from MIT AI News, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research. 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research. First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
-      "originalExcerptEn": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research 这条内容来自 MIT AI News，主题聚焦 心理健康。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“心理健康”相关的生活、学习或职业判断材料。 【站内导读】Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research. 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research. Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for mental health. [On-site guide] Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research. First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": false
-    },
-    {
       "id": "fallback-ai-agent-tools",
       "channel": "ai",
       "type": "news",
@@ -2426,7 +2456,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-09-26T06:10:13.119Z",
+      "publishedAt": "2026-09-27T06:37:03.212Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2507,7 +2537,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-09-26T06:10:13.119Z",
+      "publishedAt": "2026-09-27T06:37:03.212Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2588,7 +2618,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-09-26T06:10:13.119Z",
+      "publishedAt": "2026-09-27T06:37:03.212Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2669,7 +2699,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-09-26T06:10:13.119Z",
+      "publishedAt": "2026-09-27T06:37:03.212Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2750,7 +2780,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-09-26T06:10:13.119Z",
+      "publishedAt": "2026-09-27T06:37:03.212Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
