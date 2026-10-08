@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T07:14:54.369Z",
+  "generatedAt": "2026-10-08T07:25:31.973Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
     "自动摘要用于快速筛选，请以原文链接为准。",
     "期刊全文受版权保护；本站仅整理公开题录、摘要线索与原始访问入口。",
-    "部分来源暂时不可用，已保留可展示内容。失败来源：Open Culture: 503 Backend fetch failed；WHO Health Topics: 404 Not Found；PubMed Sleep Health: 429 Too Many Requests"
+    "部分来源暂时不可用，已保留可展示内容。失败来源：WHO Health Topics: 404 Not Found；PubMed Sleep Health: 429 Too Many Requests；PubMed Exercise Cognition: 429 Too Many Requests"
   ],
   "languages": [
     "zh",
@@ -104,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785340/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -167,6 +167,87 @@
       "highlight": true
     },
     {
+      "id": "health-pubmed-42843391",
+      "channel": "health",
+      "type": "paper",
+      "title": "医学健康文献: Mortality and disability after hospitalisation for injuries in low-income and middle-income countries: a cohort study.",
+      "summary": "这条内容来自 The Lancet. Global health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "titleZh": "医学健康文献: Mortality and disability after hospitalisation for injuries in low-income and middle-income countries: a cohort study.",
+      "titleEn": "Mortality and disability after hospitalisation for injuries in low-income and middle-income countries: a cohort study.",
+      "summaryZh": "这条内容来自 The Lancet. Global health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
+      "summaryEn": "Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury...",
+      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
+      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
+      "source": "The Lancet. Global health",
+      "sourceName": "The Lancet. Global health",
+      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28Lancet+%5Bjour%5D+OR+Lancet+Digital+Health+%5Bjour%5D+OR+Lancet+Global+Health+%5Bjour%5D+OR+Lancet+Public+Health+%5Bjour%5D+OR+Lancet+Healthy+Longevity+%5Bjour%5D+OR+Lancet+Regional+Health+%5Bjour%5D%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=12&sort=pub_date",
+      "sourceChannel": "health",
+      "fetchMethod": "PubMed API",
+      "foundAt": "PubMed / The Lancet. Global health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843391/",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
+      "dateLabel": "collected",
+      "tags": [
+        "柳叶刀",
+        "临床研究",
+        "最新文献"
+      ],
+      "tagsZh": [
+        "柳叶刀",
+        "临床研究",
+        "最新文献"
+      ],
+      "tagsEn": [
+        "The Lancet",
+        "clinical research",
+        "latest literature"
+      ],
+      "credibility": "医学文献索引",
+      "credibilityZh": "顶级期刊：柳叶刀系列",
+      "credibilityEn": "Premier journal: The Lancet family",
+      "journal": "The Lancet. Global health",
+      "sourceTier": "premier-journal",
+      "priority": 10,
+      "sourceFormat": "article",
+      "studentLevel": "guided",
+      "estimatedMinutes": 15,
+      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
+      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
+      "lifeCategory": "medical-evidence",
+      "lifeCategoryZh": "医学证据",
+      "lifeCategoryEn": "Medical evidence",
+      "lifeCategoryReasonZh": "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。",
+      "lifeCategoryReasonEn": "Useful for disease, public health, and medical evidence, with careful interpretation.",
+      "lifeRelevanceZh": "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for disease, public health, and medical evidence, with careful interpretation. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。",
+        "它来自 The Lancet. Global health，不是随机生成的话题。",
+        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
+      ],
+      "threePointsEn": [
+        "Useful for disease, public health, and medical evidence, with careful interpretation.",
+        "It comes from The Lancet. Global health, not from an empty topic shell.",
+        "Check population, evidence type, and limits before applying it personally."
+      ],
+      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
+      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
+      "readOnSiteZh": "【站内导读】Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury... 你可以先记住三件事：适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。；它来自 The Lancet. Global health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
+      "readOnSiteEn": "[On-site guide] Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury... First remember: Useful for disease, public health, and medical evidence, with careful interpretation.; It comes from The Lancet. Global health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
+      "originalExcerptZh": "Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury...",
+      "originalExcerptEn": "Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury...",
+      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
+      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
+      "searchTextZh": "医学健康文献: Mortality and disability after hospitalisation for injuries in low-income and middle-income countries: a cohort study. 这条内容来自 The Lancet. Global health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 医学证据 适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。 适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury... 你可以先记住三件事：适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。；它来自 The Lancet. Global health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 柳叶刀 临床研究 最新文献",
+      "searchTextEn": "Mortality and disability after hospitalisation for injuries in low-income and middle-income countries: a cohort study. Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury... Medical evidence Useful for disease, public health, and medical evidence, with careful interpretation. Useful for disease, public health, and medical evidence, with careful interpretation. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Mortality and disability after injuries are high in low-income and middle-income countries (LMICs). Improving outcomes for injured patients requires knowledge of their associated factors. We aimed to assess post-injury... First remember: Useful for disease, public health, and medical evidence, with careful interpretation.; It comes from The Lancet. Global health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. The Lancet clinical research latest literature",
+      "visual": {
+        "imageUrl": "/visuals/health.svg",
+        "altZh": "医学健康频道动态视觉图",
+        "altEn": "Medical Health animated visual"
+      },
+      "highlight": true
+    },
+    {
       "id": "health-pubmed-42685764",
       "channel": "health",
       "type": "paper",
@@ -185,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685764/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830090/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830089/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815512/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815511/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624805/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624804/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636850/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636849/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +995,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636848/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
+      "publishedAt": "2026-10-08T07:25:31.928Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -977,87 +1058,6 @@
       "highlight": true
     },
     {
-      "id": "health-pubmed-42575115",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Long-term effectiveness of typhoid conjugate vaccine in Nepal.",
-      "summary": "这条内容来自 The Lancet. Global health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Long-term effectiveness of typhoid conjugate vaccine in Nepal.",
-      "titleEn": "Long-term effectiveness of typhoid conjugate vaccine in Nepal.",
-      "summaryZh": "这条内容来自 The Lancet. Global health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "The Lancet. Global health. PubMed indexed article related to The Lancet Family.",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "The Lancet. Global health",
-      "sourceName": "The Lancet. Global health",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28Lancet+%5Bjour%5D+OR+Lancet+Digital+Health+%5Bjour%5D+OR+Lancet+Global+Health+%5Bjour%5D+OR+Lancet+Public+Health+%5Bjour%5D+OR+Lancet+Healthy+Longevity+%5Bjour%5D+OR+Lancet+Regional+Health+%5Bjour%5D%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=12&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / The Lancet. Global health",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575115/",
-      "publishedAt": "2026-10-07T07:14:54.212Z",
-      "dateLabel": "collected",
-      "tags": [
-        "柳叶刀",
-        "临床研究",
-        "最新文献"
-      ],
-      "tagsZh": [
-        "柳叶刀",
-        "临床研究",
-        "最新文献"
-      ],
-      "tagsEn": [
-        "The Lancet",
-        "clinical research",
-        "latest literature"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "顶级期刊：柳叶刀系列",
-      "credibilityEn": "Premier journal: The Lancet family",
-      "journal": "The Lancet. Global health",
-      "sourceTier": "premier-journal",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "medical-evidence",
-      "lifeCategoryZh": "医学证据",
-      "lifeCategoryEn": "Medical evidence",
-      "lifeCategoryReasonZh": "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。",
-      "lifeCategoryReasonEn": "Useful for disease, public health, and medical evidence, with careful interpretation.",
-      "lifeRelevanceZh": "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for disease, public health, and medical evidence, with careful interpretation. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。",
-        "它来自 The Lancet. Global health，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Useful for disease, public health, and medical evidence, with careful interpretation.",
-        "It comes from The Lancet. Global health, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】The Lancet. Global health. PubMed indexed article related to The Lancet Family. 你可以先记住三件事：适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。；它来自 The Lancet. Global health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] The Lancet. Global health. PubMed indexed article related to The Lancet Family. First remember: Useful for disease, public health, and medical evidence, with careful interpretation.; It comes from The Lancet. Global health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "The Lancet. Global health. PubMed indexed article related to The Lancet Family.",
-      "originalExcerptEn": "The Lancet. Global health. PubMed indexed article related to The Lancet Family.",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Long-term effectiveness of typhoid conjugate vaccine in Nepal. 这条内容来自 The Lancet. Global health，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 医学证据 适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。 适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】The Lancet. Global health. PubMed indexed article related to The Lancet Family. 你可以先记住三件事：适合了解疾病、公共卫生和医学研究证据，但需要谨慎解读。；它来自 The Lancet. Global health，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 柳叶刀 临床研究 最新文献",
-      "searchTextEn": "Long-term effectiveness of typhoid conjugate vaccine in Nepal. The Lancet. Global health. PubMed indexed article related to The Lancet Family. Medical evidence Useful for disease, public health, and medical evidence, with careful interpretation. Useful for disease, public health, and medical evidence, with careful interpretation. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] The Lancet. Global health. PubMed indexed article related to The Lancet Family. First remember: Useful for disease, public health, and medical evidence, with careful interpretation.; It comes from The Lancet. Global health, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. The Lancet clinical research latest literature",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": true
-    },
-    {
       "id": "ai-arxiv-ai-0-gamego-training-game-dev-agents-with-synthetic-trajectories-anchored-in-real",
       "channel": "ai",
       "type": "paper",
@@ -1076,7 +1076,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06910",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -1157,7 +1157,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06914",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "Agent"
@@ -1232,7 +1232,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06917",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "AI"
@@ -1307,7 +1307,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06919",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "机器学习"
@@ -1382,7 +1382,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06923",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -1460,7 +1460,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06928",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "AI"
@@ -1535,7 +1535,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06964",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -1613,7 +1613,7 @@
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.AI",
       "url": "https://arxiv.org/abs/2610.06971",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -1673,15 +1673,15 @@
       "highlight": false
     },
     {
-      "id": "ai-arxiv-machine-learning-0-tempest-temporal-embeddings-for-scalable-driver-identification",
+      "id": "ai-arxiv-machine-learning-0-a-bayesian-mirror-architecture-for-emergent-consciousness-circ",
       "channel": "ai",
       "type": "paper",
-      "title": "AI研究: TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning",
+      "title": "AI研究: A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding",
       "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning",
-      "titleEn": "TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning",
+      "titleZh": "AI研究: A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding",
+      "titleEn": "A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding",
       "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid...",
+      "summaryEn": "arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,...",
       "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
       "reasonEn": "Useful for tracking AI research methods and frontier changes.",
       "source": "arXiv Machine Learning",
@@ -1690,22 +1690,16 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06855",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.08792",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
-        "多模态",
-        "评估",
         "机器学习"
       ],
       "tagsZh": [
-        "多模态",
-        "评估",
         "机器学习"
       ],
       "tagsEn": [
-        "multimodal",
-        "evaluation",
         "machine learning"
       ],
       "credibility": "研究预印本",
@@ -1738,14 +1732,14 @@
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid...",
-      "originalExcerptEn": "arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid...",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,...",
+      "originalExcerptEn": "arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,...",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 多模态 评估 机器学习",
-      "searchTextEn": "TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.06855v1 Announce Type: new Abstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formulations degrade rapid... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. multimodal evaluation machine learning",
+      "searchTextZh": "AI研究: A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
+      "searchTextEn": "A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08792v1 Announce Type: new Abstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions,... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -1754,15 +1748,15 @@
       "highlight": true
     },
     {
-      "id": "ai-arxiv-machine-learning-1-when-does-external-guidance-help-llm-reasoning-a-bias-variance",
+      "id": "ai-arxiv-machine-learning-1-beyond-baseline-severity-temporal-and-disease-specific-predict",
       "channel": "ai",
       "type": "paper",
-      "title": "AI研究: When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO",
-      "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO",
-      "titleEn": "When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO",
-      "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me...",
+      "title": "AI研究: Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions",
+      "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions",
+      "titleEn": "Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions",
+      "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris...",
       "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
       "reasonEn": "Useful for tracking AI research methods and frontier changes.",
       "source": "arXiv Machine Learning",
@@ -1771,19 +1765,16 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06861",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.08809",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
-        "语言模型",
         "机器学习"
       ],
       "tagsZh": [
-        "语言模型",
         "机器学习"
       ],
       "tagsEn": [
-        "language model",
         "machine learning"
       ],
       "credibility": "研究预印本",
@@ -1802,8 +1793,8 @@
       "lifeCategoryEn": "Study and jobs",
       "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
       "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“语言模型”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for language models.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
       "threePointsZh": [
         "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
         "它来自 arXiv Machine Learning，不是随机生成的话题。",
@@ -1816,14 +1807,14 @@
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me...",
-      "originalExcerptEn": "arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me...",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris...",
+      "originalExcerptEn": "arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris...",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO 这条内容来自 arXiv Machine Learning，主题聚焦 语言模型。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“语言模型”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 语言模型 机器学习",
-      "searchTextEn": "When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for language models. [On-site guide] arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large language models, and a recent wave of me... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. language model machine learning",
+      "searchTextZh": "AI研究: Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
+      "searchTextEn": "Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08809v1 Announce Type: new Abstract: Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteris... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -1832,15 +1823,15 @@
       "highlight": true
     },
     {
-      "id": "ai-arxiv-machine-learning-2-neutrosophic-ensemble-classification-for-uncertainty-aware-bea",
+      "id": "ai-arxiv-machine-learning-2-transferability-and-operational-reliability-of-a-prithvi-crop-",
       "channel": "ai",
       "type": "paper",
-      "title": "AI研究: Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks",
+      "title": "AI研究: Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents",
       "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks",
-      "titleEn": "Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks",
+      "titleZh": "AI研究: Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents",
+      "titleEn": "Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents",
       "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv...",
+      "summaryEn": "arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil...",
       "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
       "reasonEn": "Useful for tracking AI research methods and frontier changes.",
       "source": "arXiv Machine Learning",
@@ -1849,17 +1840,17 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06880",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.08810",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
-        "机器学习"
+        "AI"
       ],
       "tagsZh": [
-        "机器学习"
+        "AI"
       ],
       "tagsEn": [
-        "machine learning"
+        "AI"
       ],
       "credibility": "研究预印本",
       "credibilityZh": "研究预印本",
@@ -1891,14 +1882,14 @@
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv...",
-      "originalExcerptEn": "arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv...",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil...",
+      "originalExcerptEn": "arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil...",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
-      "searchTextEn": "Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.06880v1 Announce Type: new Abstract: Machine learning classifiers for bearing fault detection produce scalar confidence scores that conflate confident errors with genuinely ambiguous predictions, and the conv... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
+      "searchTextZh": "AI研究: Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08810v1 Announce Type: new Abstract: Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferabil... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -1907,15 +1898,15 @@
       "highlight": false
     },
     {
-      "id": "ai-arxiv-machine-learning-3-comparative-review-of-hybrid-forecasting-models-for-short-term",
+      "id": "ai-arxiv-machine-learning-3-kvfetch-temporal-prefetching-for-the-missing-half-of-kv-cache-",
       "channel": "ai",
       "type": "paper",
-      "title": "AI研究: Comparative review of hybrid forecasting models for short-term prediction of building thermal load",
+      "title": "AI研究: KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression",
       "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Comparative review of hybrid forecasting models for short-term prediction of building thermal load",
-      "titleEn": "Comparative review of hybrid forecasting models for short-term prediction of building thermal load",
+      "titleZh": "AI研究: KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression",
+      "titleEn": "KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression",
       "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t...",
+      "summaryEn": "arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre...",
       "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
       "reasonEn": "Useful for tracking AI research methods and frontier changes.",
       "source": "arXiv Machine Learning",
@@ -1924,17 +1915,17 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06881",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.08811",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
-        "评估"
+        "AI"
       ],
       "tagsZh": [
-        "评估"
+        "AI"
       ],
       "tagsEn": [
-        "evaluation"
+        "AI"
       ],
       "credibility": "研究预印本",
       "credibilityZh": "研究预印本",
@@ -1966,14 +1957,14 @@
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t...",
-      "originalExcerptEn": "arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t...",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre...",
+      "originalExcerptEn": "arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre...",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Comparative review of hybrid forecasting models for short-term prediction of building thermal load 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 评估",
-      "searchTextEn": "Comparative review of hybrid forecasting models for short-term prediction of building thermal load arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.06881v1 Announce Type: new Abstract: In this paper, a comparative review of different hybrid models for short-term forecasting of building thermal demand is carried out. Particularly, the assessment tackles t... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. evaluation",
+      "searchTextZh": "AI研究: KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08811v1 Announce Type: new Abstract: As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into thre... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -1982,165 +1973,15 @@
       "highlight": false
     },
     {
-      "id": "ai-arxiv-machine-learning-4-learning-when-to-refine-long-horizon-reinforcement-learning-fo",
+      "id": "ai-arxiv-machine-learning-4-bounded-autonomy-and-verifiable-safety-for-agentic-ai-enabled-",
       "channel": "ai",
       "type": "paper",
-      "title": "AI研究: Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers",
-      "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers",
-      "titleEn": "Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers",
-      "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space...",
-      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
-      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
-      "source": "arXiv Machine Learning",
-      "sourceName": "arXiv Machine Learning",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.LG",
-      "sourceChannel": "ai",
-      "fetchMethod": "RSS",
-      "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06883",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "机器学习"
-      ],
-      "tagsZh": [
-        "机器学习"
-      ],
-      "tagsEn": [
-        "machine learning"
-      ],
-      "credibility": "研究预印本",
-      "credibilityZh": "研究预印本",
-      "credibilityEn": "Research preprint",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "advanced",
-      "estimatedMinutes": 18,
-      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
-      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 arXiv Machine Learning，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from arXiv Machine Learning, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space...",
-      "originalExcerptEn": "arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space...",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
-      "searchTextEn": "Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation problem: prediction errors vary over space... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "ai-arxiv-machine-learning-5-event-driven-ml-pipeline-orchestration-for-manufacturing-an-aw",
-      "channel": "ai",
-      "type": "paper",
-      "title": "AI研究: Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience",
-      "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience",
-      "titleEn": "Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience",
-      "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur...",
-      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
-      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
-      "source": "arXiv Machine Learning",
-      "sourceName": "arXiv Machine Learning",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.LG",
-      "sourceChannel": "ai",
-      "fetchMethod": "RSS",
-      "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06890",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "机器学习"
-      ],
-      "tagsZh": [
-        "机器学习"
-      ],
-      "tagsEn": [
-        "machine learning"
-      ],
-      "credibility": "研究预印本",
-      "credibilityZh": "研究预印本",
-      "credibilityEn": "Research preprint",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "advanced",
-      "estimatedMinutes": 18,
-      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
-      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 arXiv Machine Learning，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from arXiv Machine Learning, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur...",
-      "originalExcerptEn": "arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur...",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
-      "searchTextEn": "Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.06890v1 Announce Type: new Abstract: We present an industry experience report on three years of operating an event-driven cloud infrastructure for continuous machine learning training in automotive manufactur... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "ai-arxiv-machine-learning-6-learning-from-unreliable-trajectories-adversarially-robust-fed",
-      "channel": "ai",
-      "type": "paper",
-      "title": "AI研究: Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning",
+      "title": "AI研究: Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation",
       "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 AI Agent。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning",
-      "titleEn": "Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning",
+      "titleZh": "AI研究: Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation",
+      "titleEn": "Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation",
       "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 AI Agent。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative...",
+      "summaryEn": "arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee...",
       "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
       "reasonEn": "Useful for tracking AI research methods and frontier changes.",
       "source": "arXiv Machine Learning",
@@ -2149,20 +1990,17 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06918",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.08815",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
-        "Agent",
-        "机器学习"
+        "Agent"
       ],
       "tagsZh": [
-        "Agent",
-        "机器学习"
+        "Agent"
       ],
       "tagsEn": [
-        "agent",
-        "machine learning"
+        "agent"
       ],
       "credibility": "研究预印本",
       "credibilityZh": "研究预印本",
@@ -2194,14 +2032,14 @@
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative...",
-      "originalExcerptEn": "arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative...",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee...",
+      "originalExcerptEn": "arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee...",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning 这条内容来自 arXiv Machine Learning，主题聚焦 AI Agent。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“AI Agent”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 Agent 机器学习",
-      "searchTextEn": "Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for AI agents. [On-site guide] arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate through a central server to collaborative... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. agent machine learning",
+      "searchTextZh": "AI研究: Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation 这条内容来自 arXiv Machine Learning，主题聚焦 AI Agent。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“AI Agent”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 Agent",
+      "searchTextEn": "Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for AI agents. [On-site guide] arXiv:2610.08815v1 Announce Type: new Abstract: Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning dee... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. agent",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -2210,15 +2048,15 @@
       "highlight": false
     },
     {
-      "id": "ai-arxiv-machine-learning-7-attsvd-prompt-adaptive-low-rank-kv-cache-compression-via-atten",
+      "id": "ai-arxiv-machine-learning-5-the-cost-of-long-memory-state-context-and-stability-complexity",
       "channel": "ai",
       "type": "paper",
-      "title": "AI研究: AttSVD:Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD",
+      "title": "AI研究: The Cost of Long Memory: State, Context, and Stability Complexity in Sequence Models",
       "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: AttSVD:Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD",
-      "titleEn": "AttSVD:Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD",
+      "titleZh": "AI研究: The Cost of Long Memory: State, Context, and Stability Complexity in Sequence Models",
+      "titleEn": "The Cost of Long Memory: State, Context, and Stability Complexity in Sequence Models",
       "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo...",
+      "summaryEn": "arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r...",
       "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
       "reasonEn": "Useful for tracking AI research methods and frontier changes.",
       "source": "arXiv Machine Learning",
@@ -2227,17 +2065,17 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://export.arxiv.org/rss/cs.LG",
-      "url": "https://arxiv.org/abs/2610.06927",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.08816",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
-        "Agent"
+        "AI"
       ],
       "tagsZh": [
-        "Agent"
+        "AI"
       ],
       "tagsEn": [
-        "agent"
+        "AI"
       ],
       "credibility": "研究预印本",
       "credibilityZh": "研究预印本",
@@ -2269,14 +2107,14 @@
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo...",
-      "originalExcerptEn": "arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo...",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r...",
+      "originalExcerptEn": "arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r...",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: AttSVD:Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 Agent",
-      "searchTextEn": "AttSVD:Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.06927v1 Announce Type: new Abstract: The key-value (KV) cache of autoregressive transformers grows linearly with context length and dominates memory at long context. Most training-free remedies evict low-impo... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. agent",
+      "searchTextZh": "AI研究: The Cost of Long Memory: State, Context, and Stability Complexity in Sequence Models 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "The Cost of Long Memory: State, Context, and Stability Complexity in Sequence Models arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08816v1 Announce Type: new Abstract: Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is r... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -2285,15 +2123,165 @@
       "highlight": false
     },
     {
-      "id": "ai-mit-ai-news-0-supercomputing-researchers-document-evolution-of-ai-hardware",
+      "id": "ai-arxiv-machine-learning-6-denoflow-flow-matching-for-ssvep-denoising-under-real-physiolo",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts",
+      "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts",
+      "titleEn": "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts",
+      "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv Machine Learning",
+      "sourceName": "arXiv Machine Learning",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.LG",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.LG",
+      "url": "https://arxiv.org/abs/2610.08817",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "机器学习"
+      ],
+      "tagsZh": [
+        "机器学习"
+      ],
+      "tagsEn": [
+        "machine learning"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 arXiv Machine Learning，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from arXiv Machine Learning, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and...",
+      "originalExcerptEn": "arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and...",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
+      "searchTextEn": "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08817v1 Announce Type: new Abstract: Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-arxiv-machine-learning-7-just-for-funs-llm-guided-spatio-temporal-graph-node-generation",
+      "channel": "ai",
+      "type": "paper",
+      "title": "AI研究: Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States",
+      "summary": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States",
+      "titleEn": "Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States",
+      "summaryZh": "这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance...",
+      "reasonZh": "适合跟踪 AI 研究前沿和方法变化。",
+      "reasonEn": "Useful for tracking AI research methods and frontier changes.",
+      "source": "arXiv Machine Learning",
+      "sourceName": "arXiv Machine Learning",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.LG",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://export.arxiv.org/rss/cs.LG",
+      "url": "https://arxiv.org/abs/2610.08818",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "语言模型"
+      ],
+      "tagsZh": [
+        "语言模型"
+      ],
+      "tagsEn": [
+        "language model"
+      ],
+      "credibility": "研究预印本",
+      "credibilityZh": "研究预印本",
+      "credibilityEn": "Research preprint",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "advanced",
+      "estimatedMinutes": 18,
+      "learningActionZh": "先看摘要和关键词，再决定是否进入方法与数据部分。",
+      "learningActionEn": "Start with the abstract and keywords before deciding whether to read methods and data.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 arXiv Machine Learning，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from arXiv Machine Learning, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance...",
+      "originalExcerptEn": "arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance...",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States 这条内容来自 arXiv Machine Learning，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 arXiv Machine Learning，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 语言模型",
+      "searchTextEn": "Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] arXiv:2610.08818v1 Announce Type: new Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from arXiv Machine Learning, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. language model",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-mit-ai-news-0-using-ai-to-mitigate-the-growing-environmental-threat-of-data-centers",
       "channel": "ai",
       "type": "news",
-      "title": "AI研究: Supercomputing researchers document evolution of AI hardware",
-      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Supercomputing researchers document evolution of AI hardware",
-      "titleEn": "Supercomputing researchers document evolution of AI hardware",
-      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+      "title": "AI研究: Using AI to mitigate the growing environmental threat of data centers",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Using AI to mitigate the growing environmental threat of data centers",
+      "titleEn": "Using AI to mitigate the growing environmental threat of data centers",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
       "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
       "reasonEn": "Useful for understanding how AI moves from research into products.",
       "source": "MIT AI News",
@@ -2302,8 +2290,8 @@
       "sourceChannel": "ai",
       "fetchMethod": "RSS",
       "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-      "publishedAt": "2026-10-06T20:55:00.000Z",
+      "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
       "dateLabel": "published",
       "tags": [
         "AI"
@@ -2325,33 +2313,33 @@
       "estimatedMinutes": 6,
       "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
       "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "lifeCategory": "life-health",
+      "lifeCategoryZh": "生活健康",
+      "lifeCategoryEn": "Everyday health",
+      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
+      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
+      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“心理健康”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for mental health.",
       "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
         "它来自 MIT AI News，不是随机生成的话题。",
         "先看摘要和来源，再决定是否打开原文继续读。"
       ],
       "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
         "It comes from MIT AI News, not from an empty topic shell.",
         "Read the summary and source before opening the original."
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
-      "originalExcerptEn": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+      "readOnSiteZh": "【站内导读】By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient. 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient. First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
+      "originalExcerptEn": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
       "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Supercomputing researchers document evolution of AI hardware 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "Supercomputing researchers document evolution of AI hardware An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "searchTextZh": "AI研究: Using AI to mitigate the growing environmental threat of data centers 这条内容来自 MIT AI News，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“心理健康”相关的生活、学习或职业判断材料。 【站内导读】By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient. 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Using AI to mitigate the growing environmental threat of data centers By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient. Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for mental health. [On-site guide] By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient. First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -2360,77 +2348,77 @@
       "highlight": true
     },
     {
-      "id": "ai-ted-ed-technology-0-why-is-queen-victoria-so-controversial-carolyn-harris",
-      "channel": "ai",
-      "type": "video",
-      "title": "AI研究: Why is Queen Victoria so controversial? - Carolyn Harris",
-      "summary": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Why is Queen Victoria so controversial? - Carolyn Harris",
-      "titleEn": "Why is Queen Victoria so controversial? - Carolyn Harris",
-      "summaryZh": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "reasonZh": "适合先通过画面和讲解建立概念，再进入更深的阅读。",
-      "reasonEn": "A visual starting point for understanding the topic before deeper reading.",
-      "source": "TED-Ed Technology",
-      "sourceName": "TED-Ed Technology",
-      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
-      "sourceChannel": "ai",
-      "fetchMethod": "YouTube public feed",
-      "foundAt": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
-      "url": "https://www.youtube.com/watch?v=JjhrN0FcHpM",
-      "publishedAt": "2026-10-06T20:34:36.000Z",
+      "id": "literature-literary-hub-0-here-are-the-winners-of-the-2026-kirkus-prize",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Here are the winners of the 2026 Kirkus Prize.",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Here are the winners of the 2026 Kirkus Prize.",
+      "titleEn": "Here are the winners of the 2026 Kirkus Prize.",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/here-are-the-winners-of-the-2026-kirkus-prize/",
+      "publishedAt": "2026-10-08T00:45:36.000Z",
       "dateLabel": "published",
       "tags": [
-        "AI"
+        "图书"
       ],
       "tagsZh": [
-        "AI"
+        "图书"
       ],
       "tagsEn": [
-        "AI"
+        "books"
       ],
-      "credibility": "公开资讯来源",
-      "credibilityZh": "公开资讯来源",
-      "credibilityEn": "Open information source",
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
       "journal": "",
       "sourceTier": "open-source",
       "priority": 0,
-      "sourceFormat": "video",
-      "studentLevel": "intro",
-      "estimatedMinutes": 12,
-      "learningActionZh": "先看视频了解概念，再打开原始链接延伸阅读。",
-      "learningActionEn": "Watch first for the concept, then use the original link to explore further.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "expression-reading",
+      "lifeCategoryZh": "阅读表达",
+      "lifeCategoryEn": "Reading and expression",
+      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
+      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
+      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
       "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 TED-Ed Technology，不是随机生成的话题。",
+        "适合提升阅读、写作、表达、文化理解和文案能力。",
+        "它来自 Literary Hub，不是随机生成的话题。",
         "先看摘要和来源，再决定是否打开原文继续读。"
       ],
       "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from TED-Ed Technology, not from an empty topic shell.",
+        "Useful for reading, writing, communication, culture, and copywriting.",
+        "It comes from Literary Hub, not from an empty topic shell.",
         "Read the summary and source before opening the original."
       ],
       "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
       "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "originalExcerptEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Why is Queen Victoria so controversial? - Carolyn Harris 这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "Why is Queen Victoria so controversial? - Carolyn Harris This item comes from an open AI source. Read the original for methods, data, and limitations. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "readOnSiteZh": "【站内导读】Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea...",
+      "originalExcerptEn": "Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Here are the winners of the 2026 Kirkus Prize. 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 图书",
+      "searchTextEn": "Here are the winners of the 2026 Kirkus Prize. Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Tonight, at a ceremony in New York City, Kirkus Reviews announced the winners of the 13th annual Kirkus Prize, which awards $50,000 to “books of exceptional merit” in three categories: Fiction, Nonfiction, and Young Rea... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. books",
       "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
       },
       "highlight": true
     },
@@ -2453,7 +2441,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-10-07T07:14:54.368Z",
+      "publishedAt": "2026-10-08T07:25:31.972Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2534,7 +2522,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-10-07T07:14:54.368Z",
+      "publishedAt": "2026-10-08T07:25:31.972Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2615,7 +2603,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-10-07T07:14:54.368Z",
+      "publishedAt": "2026-10-08T07:25:31.972Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2696,7 +2684,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-07T07:14:54.368Z",
+      "publishedAt": "2026-10-08T07:25:31.972Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2777,7 +2765,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-07T07:14:54.368Z",
+      "publishedAt": "2026-10-08T07:25:31.972Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
