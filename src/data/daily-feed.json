@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:07:47.814Z",
+  "generatedAt": "2026-10-11T07:12:22.115Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -104,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / Lancet (London, England)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41421841/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -185,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785340/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843391/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854709/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854708/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830090/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830089/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815512/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815511/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42816245/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777751/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -995,7 +995,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777750/",
-      "publishedAt": "2026-10-10T07:07:47.481Z",
+      "publishedAt": "2026-10-11T07:12:22.072Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1058,7 +1058,235 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-0-lit-hub-daily-october-9-2026",
+      "id": "ai-ted-ed-technology-0-which-is-better-buying-or-renting-a-home-ella-feldman",
+      "channel": "ai",
+      "type": "video",
+      "title": "AI研究: Which is better: Buying or renting a home? - Ella Feldman",
+      "summary": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Which is better: Buying or renting a home? - Ella Feldman",
+      "titleEn": "Which is better: Buying or renting a home? - Ella Feldman",
+      "summaryZh": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "reasonZh": "适合先通过画面和讲解建立概念，再进入更深的阅读。",
+      "reasonEn": "A visual starting point for understanding the topic before deeper reading.",
+      "source": "TED-Ed Technology",
+      "sourceName": "TED-Ed Technology",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
+      "sourceChannel": "ai",
+      "fetchMethod": "YouTube public feed",
+      "foundAt": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
+      "url": "https://www.youtube.com/watch?v=h6CmKF-mN2U",
+      "publishedAt": "2026-10-11T01:00:23.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "AI"
+      ],
+      "tagsZh": [
+        "AI"
+      ],
+      "tagsEn": [
+        "AI"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "video",
+      "studentLevel": "intro",
+      "estimatedMinutes": 12,
+      "learningActionZh": "先看视频了解概念，再打开原始链接延伸阅读。",
+      "learningActionEn": "Watch first for the concept, then use the original link to explore further.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 TED-Ed Technology，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from TED-Ed Technology, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "originalExcerptEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Which is better: Buying or renting a home? - Ella Feldman 这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Which is better: Buying or renting a home? - Ella Feldman This item comes from an open AI source. Read the original for methods, data, and limitations. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-0-lit-hub-weekly-october-5-9-2026",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Lit Hub Weekly: October 5 – 9, 2026",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Lit Hub Weekly: October 5 – 9, 2026",
+      "titleEn": "Lit Hub Weekly: October 5 – 9, 2026",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/lit-hub-weekly-october-5-9-2026/",
+      "publishedAt": "2026-10-10T10:30:18.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "批评",
+        "图书"
+      ],
+      "tagsZh": [
+        "批评",
+        "图书"
+      ],
+      "tagsEn": [
+        "criticism",
+        "books"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "expression-reading",
+      "lifeCategoryZh": "阅读表达",
+      "lifeCategoryEn": "Reading and expression",
+      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
+      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
+      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合提升阅读、写作、表达、文化理解和文案能力。",
+        "它来自 Literary Hub，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for reading, writing, communication, culture, and copywriting.",
+        "It comes from Literary Hub, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:...",
+      "originalExcerptEn": "Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Lit Hub Weekly: October 5 – 9, 2026 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 批评 图书",
+      "searchTextEn": "Lit Hub Weekly: October 5 – 9, 2026 Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative:... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. criticism books",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-ted-ed-technology-1-why-is-queen-victoria-so-controversial-carolyn-harris",
+      "channel": "ai",
+      "type": "video",
+      "title": "AI研究: Why is Queen Victoria so controversial? - Carolyn Harris",
+      "summary": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Why is Queen Victoria so controversial? - Carolyn Harris",
+      "titleEn": "Why is Queen Victoria so controversial? - Carolyn Harris",
+      "summaryZh": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "reasonZh": "适合先通过画面和讲解建立概念，再进入更深的阅读。",
+      "reasonEn": "A visual starting point for understanding the topic before deeper reading.",
+      "source": "TED-Ed Technology",
+      "sourceName": "TED-Ed Technology",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
+      "sourceChannel": "ai",
+      "fetchMethod": "YouTube public feed",
+      "foundAt": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
+      "url": "https://www.youtube.com/watch?v=JjhrN0FcHpM",
+      "publishedAt": "2026-10-10T06:57:41.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "AI"
+      ],
+      "tagsZh": [
+        "AI"
+      ],
+      "tagsEn": [
+        "AI"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "video",
+      "studentLevel": "intro",
+      "estimatedMinutes": 12,
+      "learningActionZh": "先看视频了解概念，再打开原始链接延伸阅读。",
+      "learningActionEn": "Watch first for the concept, then use the original link to explore further.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 TED-Ed Technology，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from TED-Ed Technology, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "originalExcerptEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Why is Queen Victoria so controversial? - Carolyn Harris 这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Why is Queen Victoria so controversial? - Carolyn Harris This item comes from an open AI source. Read the original for methods, data, and limitations. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-1-lit-hub-daily-october-9-2026",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Lit Hub Daily: October 9, 2026",
@@ -1136,7 +1364,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-1-march-5-1933-the-election-that-destroyed-german-democracy",
+      "id": "literature-literary-hub-2-march-5-1933-the-election-that-destroyed-german-democracy",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: March 5, 1933: The Election That Destroyed German Democracy",
@@ -1208,10 +1436,10 @@
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "literature-literary-hub-2-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
+      "id": "literature-literary-hub-3-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: What Should You Read Next? Here Are the Best Reviewed Books of the Week",
@@ -1286,7 +1514,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-3-from-dud-to-delicious-deesha-philyaw-on-raising-the-stakes-in-fi",
+      "id": "literature-literary-hub-4-from-dud-to-delicious-deesha-philyaw-on-raising-the-stakes-in-fi",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: From Dud to Delicious: Deesha Philyaw on Raising the Stakes in Fiction",
@@ -1364,7 +1592,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-4-queer-recognition-estrangement-and-the-great-grey-area-in-betwee",
+      "id": "literature-literary-hub-5-queer-recognition-estrangement-and-the-great-grey-area-in-betwee",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Queer Recognition, Estrangement, and the Great Grey Area in Between",
@@ -1439,7 +1667,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-5-jérôme-lindon-jérôme-lindon-on-the-relationship-between-jean-ech",
+      "id": "literature-literary-hub-6-jérôme-lindon-jérôme-lindon-on-the-relationship-between-jean-ech",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Jérôme Lindon, Jérôme Lindon: On the Relationship Between Jean Echenoz and His Publisher",
@@ -1514,7 +1742,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-6-how-navigating-the-demands-of-academia-helped-me-cope-with-terri",
+      "id": "literature-literary-hub-7-how-navigating-the-demands-of-academia-helped-me-cope-with-terri",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: How Navigating the Demands of Academia Helped Me Cope With Terrible Loss",
@@ -1581,81 +1809,6 @@
       "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
       "searchTextZh": "文学观察: How Navigating the Demands of Academia Helped Me Cope With Terrible Loss 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】The first summer after my daughter died, I received an email invitation to give a keynote address the next spring. I didn’t know the scholar who invited me, but she’d been told that my daughter had recently died and off... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
       "searchTextEn": "How Navigating the Demands of Academia Helped Me Cope With Terrible Loss The first summer after my daughter died, I received an email invitation to give a keynote address the next spring. I didn’t know the scholar who invited me, but she’d been told that my daughter had recently died and off... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] The first summer after my daughter died, I received an email invitation to give a keynote address the next spring. I didn’t know the scholar who invited me, but she’d been told that my daughter had recently died and off... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-literary-hub-7-alice-elliott-dark-s-afterword-to-in-the-gloaming",
-      "channel": "literature",
-      "type": "essay",
-      "title": "文学观察: Alice Elliott Dark’s Afterword to “In the Gloaming”",
-      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: Alice Elliott Dark’s Afterword to “In the Gloaming”",
-      "titleEn": "Alice Elliott Dark’s Afterword to “In the Gloaming”",
-      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Literary Hub",
-      "sourceName": "Literary Hub",
-      "sourceUrl": "https://lithub.com/feed/",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://lithub.com/feed/",
-      "url": "https://lithub.com/alice-elliott-darks-afterword-to-in-the-gloaming/",
-      "publishedAt": "2026-10-09T09:07:07.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 Literary Hub，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from Literary Hub, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t...",
-      "originalExcerptEn": "It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: Alice Elliott Dark’s Afterword to “In the Gloaming” 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "Alice Elliott Dark’s Afterword to “In the Gloaming” It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression t... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
       "visual": {
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
@@ -1881,81 +2034,6 @@
       "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
       "searchTextZh": "AI研究: 3 Questions: What is the best path forward for AI in academia? 这条内容来自 MIT AI News，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
       "searchTextEn": "3 Questions: What is the best path forward for AI in academia? MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
-      "visual": {
-        "imageUrl": "/visuals/ai.svg",
-        "altZh": "AI频道动态视觉图",
-        "altEn": "AI animated visual"
-      },
-      "highlight": true
-    },
-    {
-      "id": "ai-ted-ed-technology-0-which-is-better-buying-or-renting-a-home-ella-feldman",
-      "channel": "ai",
-      "type": "video",
-      "title": "AI研究: Which is better: Buying or renting a home? - Ella Feldman",
-      "summary": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "titleZh": "AI研究: Which is better: Buying or renting a home? - Ella Feldman",
-      "titleEn": "Which is better: Buying or renting a home? - Ella Feldman",
-      "summaryZh": "这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
-      "summaryEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "reasonZh": "适合先通过画面和讲解建立概念，再进入更深的阅读。",
-      "reasonEn": "A visual starting point for understanding the topic before deeper reading.",
-      "source": "TED-Ed Technology",
-      "sourceName": "TED-Ed Technology",
-      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
-      "sourceChannel": "ai",
-      "fetchMethod": "YouTube public feed",
-      "foundAt": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
-      "url": "https://www.youtube.com/watch?v=h6CmKF-mN2U",
-      "publishedAt": "2026-10-08T15:06:37.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "AI"
-      ],
-      "tagsZh": [
-        "AI"
-      ],
-      "tagsEn": [
-        "AI"
-      ],
-      "credibility": "公开资讯来源",
-      "credibilityZh": "公开资讯来源",
-      "credibilityEn": "Open information source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "video",
-      "studentLevel": "intro",
-      "estimatedMinutes": 12,
-      "learningActionZh": "先看视频了解概念，再打开原始链接延伸阅读。",
-      "learningActionEn": "Watch first for the concept, then use the original link to explore further.",
-      "lifeCategory": "study-career",
-      "lifeCategoryZh": "学习就业",
-      "lifeCategoryEn": "Study and jobs",
-      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
-      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence.",
-      "threePointsZh": [
-        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
-        "它来自 TED-Ed Technology，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for AI tools, study efficiency, job changes, and digital skills.",
-        "It comes from TED-Ed Technology, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "originalExcerptEn": "This item comes from an open AI source. Read the original for methods, data, and limitations.",
-      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
-      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
-      "searchTextZh": "AI研究: Which is better: Buying or renting a home? - Ella Feldman 这条内容来自 TED-Ed Technology，主题聚焦 数据与证据。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】This item comes from an open AI source. Read the original for methods, data, and limitations. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 TED-Ed Technology，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
-      "searchTextEn": "Which is better: Buying or renting a home? - Ella Feldman This item comes from an open AI source. Read the original for methods, data, and limitations. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for data and evidence. [On-site guide] This item comes from an open AI source. Read the original for methods, data, and limitations. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from TED-Ed Technology, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
       "visual": {
         "imageUrl": "/visuals/ai.svg",
         "altZh": "AI频道动态视觉图",
@@ -2339,81 +2417,6 @@
       "highlight": false
     },
     {
-      "id": "literature-open-culture-4-it-s-the-end-of-the-world-as-we-know-it-the-apocalypse-gets-visu",
-      "channel": "literature",
-      "type": "news",
-      "title": "文学观察: It’s the End of the World as We Know It: The Apocalypse Gets Visualized in an Inventive Map from 1486",
-      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: It’s the End of the World as We Know It: The Apocalypse Gets Visualized in an Inventive Map from 1486",
-      "titleEn": "It’s the End of the World as We Know It: The Apocalypse Gets Visualized in an Inventive Map from 1486",
-      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Open Culture",
-      "sourceName": "Open Culture",
-      "sourceUrl": "https://www.openculture.com/feed",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://www.openculture.com/feed",
-      "url": "https://www.openculture.com/2026/10/its-the-end-of-the-world-as-we-know-it-the-apocalypse-map-1486.html",
-      "publishedAt": "2026-10-07T08:00:52.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "expression-reading",
-      "lifeCategoryZh": "阅读表达",
-      "lifeCategoryEn": "Reading and expression",
-      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
-      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
-      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合提升阅读、写作、表达、文化理解和文案能力。",
-        "它来自 Open Culture，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for reading, writing, communication, culture, and copywriting.",
-        "It comes from Open Culture, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas...",
-      "originalExcerptEn": "When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: It’s the End of the World as We Know It: The Apocalypse Gets Visualized in an Inventive Map from 1486 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "It’s the End of the World as We Know It: The Apocalypse Gets Visualized in an Inventive Map from 1486 When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-cas... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
       "id": "fallback-ai-agent-tools",
       "channel": "ai",
       "type": "news",
@@ -2432,7 +2435,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-10-10T07:07:47.813Z",
+      "publishedAt": "2026-10-11T07:12:22.115Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2513,7 +2516,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-10-10T07:07:47.813Z",
+      "publishedAt": "2026-10-11T07:12:22.115Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2594,7 +2597,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-10-10T07:07:47.813Z",
+      "publishedAt": "2026-10-11T07:12:22.115Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2675,7 +2678,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-10T07:07:47.813Z",
+      "publishedAt": "2026-10-11T07:12:22.115Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2756,7 +2759,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-10T07:07:47.813Z",
+      "publishedAt": "2026-10-11T07:12:22.115Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
