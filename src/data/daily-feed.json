@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:36:33.333Z",
+  "generatedAt": "2026-10-18T05:53:58.465Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -86,411 +86,6 @@
   ],
   "items": [
     {
-      "id": "health-pubmed-42730704",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Effects of six weeks of guanidinoacetic acid supplementation with and without creatine monohydrate on cognitive function and markers of health in healthy adults.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Effects of six weeks of guanidinoacetic acid supplementation with and without creatine monohydrate on cognitive function and markers of health in healthy adults.",
-      "titleEn": "Effects of six weeks of guanidinoacetic acid supplementation with and without creatine monohydrate on cognitive function and markers of health in healthy adults.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730704/",
-      "publishedAt": "2026-10-17T05:36:33.332Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th...",
-      "originalExcerptEn": "Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Effects of six weeks of guanidinoacetic acid supplementation with and without creatine monohydrate on cognitive function and markers of health in healthy adults. 这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Effects of six weeks of guanidinoacetic acid supplementation with and without creatine monohydrate on cognitive function and markers of health in healthy adults. Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Guanidinoacetic acid (GAA) supplementation has been reported to increase brain creatine content more effectively than creatine monohydrate (CrM). However, the effects on cognitive function are unclear. The purpose of th... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": true
-    },
-    {
-      "id": "health-pubmed-42603141",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Walking together: exploring australian parent experiences of walking in nature with their preschool children with autism using a bioecological lens.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Walking together: exploring australian parent experiences of walking in nature with their preschool children with autism using a bioecological lens.",
-      "titleEn": "Walking together: exploring australian parent experiences of walking in nature with their preschool children with autism using a bioecological lens.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / International journal of qualitative studies on health and well-being",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603141/",
-      "publishedAt": "2026-10-17T05:36:33.332Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "International journal of qualitative studies on health and well-being",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits...",
-      "originalExcerptEn": "Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Walking together: exploring australian parent experiences of walking in nature with their preschool children with autism using a bioecological lens. 这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Walking together: exploring australian parent experiences of walking in nature with their preschool children with autism using a bioecological lens. Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Walking regularly in natural settings is a common healthy activity for Australian parents and their preschool children. Extant research conveys that walking in nature provides cognitive, emotional and physical benefits... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42483938",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 饮食 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review.",
-      "titleEn": "The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 饮食 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42483938/",
-      "publishedAt": "2026-10-17T05:36:33.332Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“饮食”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for diet.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven...",
-      "originalExcerptEn": "Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review. 这条内容来自 PubMed Exercise Cognition，与 饮食 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“饮食”相关的生活、学习或职业判断材料。 【站内导读】Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "The effect of the Mediterranean diet combined with physical activity on cognitive function in older adults: a scoping review. Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for diet. [On-site guide] Cognitive impairment and dementia are rapidly increasing among older adults, with limited pharmacological treatments available. Modifiable lifestyle factors, particularly diet and physical activity, are promising preven... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42460838",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress.",
-      "titleEn": "Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Journal of the International Society of Sports Nutrition",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42460838/",
-      "publishedAt": "2026-10-17T05:36:33.332Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“运动”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for exercise.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood...",
-      "originalExcerptEn": "Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress. 这条内容来自 PubMed Exercise Cognition，与 心理健康 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“运动”相关的生活、学习或职业判断材料。 【站内导读】Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Ketone monoester ingestion and cognitive and physical performance during exercise-heat stress. Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for exercise. [On-site guide] Sustaining cognitive and physical performance under extreme environmental conditions is critical for special operation forces (SOF). Hyperthermia negatively impacts cognitive function due to reductions in cerebral blood... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42065634",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 公共卫生 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action.",
-      "titleEn": "Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 公共卫生 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / International journal of qualitative studies on health and well-being",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42065634/",
-      "publishedAt": "2026-10-17T05:36:33.332Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "International journal of qualitative studies on health and well-being",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“翻译”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for translation.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration...",
-      "originalExcerptEn": "Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action. 这条内容来自 PubMed Exercise Cognition，与 公共卫生 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“翻译”相关的生活、学习或职业判断材料。 【站内导读】Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action. Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for translation. [On-site guide] Integrating societal considerations into public health research, particularly during crises, can foster public trust, support inclusive policy-making, and enhance technology development. Interdisciplinary collaboration... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
       "id": "health-pubmed-42880333",
       "channel": "health",
       "type": "paper",
@@ -509,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880333/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785340/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843391/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869064/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869063/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854709/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -995,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854708/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1076,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830090/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1157,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830089/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1238,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815512/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1319,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815511/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1400,7 +995,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42881014/",
-      "publishedAt": "2026-10-17T05:36:32.210Z",
+      "publishedAt": "2026-10-18T05:53:58.340Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1463,7 +1058,157 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-0-this-week-s-news-in-venn-diagrams",
+      "id": "ai-mit-ai-news-0-giving-ai-a-crystal-clear-view-of-the-materials-world",
+      "channel": "ai",
+      "type": "news",
+      "title": "AI研究: Giving AI a “crystal clear” view of the materials world",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Giving AI a “crystal clear” view of the materials world",
+      "titleEn": "Giving AI a “crystal clear” view of the materials world",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
+      "reasonEn": "Useful for understanding how AI moves from research into products.",
+      "source": "MIT AI News",
+      "sourceName": "MIT AI News",
+      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "publishedAt": "2026-10-18T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "AI"
+      ],
+      "tagsZh": [
+        "AI"
+      ],
+      "tagsEn": [
+        "AI"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 6,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 MIT AI News，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from MIT AI News, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】New research can help AI models understand crystalline materials in 3D and reason about their properties. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] New research can help AI models understand crystalline materials in 3D and reason about their properties. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "originalExcerptEn": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Giving AI a “crystal clear” view of the materials world 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】New research can help AI models understand crystalline materials in 3D and reason about their properties. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Giving AI a “crystal clear” view of the materials world New research can help AI models understand crystalline materials in 3D and reason about their properties. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] New research can help AI models understand crystalline materials in 3D and reason about their properties. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-0-lit-hub-weekly-october-12-16-2026",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Lit Hub Weekly: October 12 – 16, 2026",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Lit Hub Weekly: October 12 – 16, 2026",
+      "titleEn": "Lit Hub Weekly: October 12 – 16, 2026",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/lit-hub-weekly-october-12-16-2026/",
+      "publishedAt": "2026-10-17T10:30:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "文学"
+      ],
+      "tagsZh": [
+        "文学"
+      ],
+      "tagsEn": [
+        "literature"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 Literary Hub，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from Literary Hub, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai...",
+      "originalExcerptEn": "Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Lit Hub Weekly: October 12 – 16, 2026 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
+      "searchTextEn": "Lit Hub Weekly: October 12 – 16, 2026 Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Is it or isn’t it? James Folta considers how generative AI is poisoning the literary well for everyone. | Lit Hub Technology “The embodied realm is eager for inquiry, if one is willing and interested.” Emily Hyland prai... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-1-this-week-s-news-in-venn-diagrams",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: This week’s news in Venn diagrams.",
@@ -1538,7 +1283,7 @@
       "highlight": true
     },
     {
-      "id": "ai-mit-ai-news-0-fostering-community-amid-kendall-square-s-innovation",
+      "id": "ai-mit-ai-news-1-fostering-community-amid-kendall-square-s-innovation",
       "channel": "ai",
       "type": "news",
       "title": "AI研究: Fostering community amid Kendall Square’s innovation",
@@ -1613,7 +1358,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-1-here-s-what-s-making-us-happy-this-week",
+      "id": "literature-literary-hub-2-here-s-what-s-making-us-happy-this-week",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Here’s what’s making us happy this week.",
@@ -1685,10 +1430,10 @@
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "literature-literary-hub-2-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
+      "id": "literature-literary-hub-3-what-should-you-read-next-here-are-the-best-reviewed-books-of-th",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: What Should You Read Next? Here Are the Best Reviewed Books of the Week",
@@ -1763,7 +1508,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-3-lit-hub-daily-october-16-2026",
+      "id": "literature-literary-hub-4-lit-hub-daily-october-16-2026",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Lit Hub Daily: October 16, 2026",
@@ -1838,7 +1583,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-4-what-three-recent-films-reveal-about-how-we-view-poets-and-poetr",
+      "id": "literature-literary-hub-5-what-three-recent-films-reveal-about-how-we-view-poets-and-poetr",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: What Three Recent Films Reveal About How We View Poets and Poetry",
@@ -1913,7 +1658,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-5-photographing-the-radical-change-of-1960s-and-70s-america",
+      "id": "literature-literary-hub-6-photographing-the-radical-change-of-1960s-and-70s-america",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Photographing the Radical Change of 1960s and 70s America",
@@ -1988,7 +1733,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-6-the-wild-robot-author-peter-brown-on-what-makes-a-great-read-alo",
+      "id": "literature-literary-hub-7-the-wild-robot-author-peter-brown-on-what-makes-a-great-read-alo",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: The Wild Robot Author Peter Brown on What Makes a Great Read-Aloud Book",
@@ -2058,81 +1803,6 @@
       "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
       "searchTextZh": "文学观察: The Wild Robot Author Peter Brown on What Makes a Great Read-Aloud Book 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“小说”相关的生活、学习或职业判断材料。 【站内导读】The tenth anniversary edition of Peter Brown’s middle grade novel The Wild Robot is available now from Little Brown Book for Young Readers, so we asked him a few questions about reading aloud, feedback from young reader... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 小说 图书",
       "searchTextEn": "The Wild Robot Author Peter Brown on What Makes a Great Read-Aloud Book The tenth anniversary edition of Peter Brown’s middle grade novel The Wild Robot is available now from Little Brown Book for Young Readers, so we asked him a few questions about reading aloud, feedback from young reader... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for novels. [On-site guide] The tenth anniversary edition of Peter Brown’s middle grade novel The Wild Robot is available now from Little Brown Book for Young Readers, so we asked him a few questions about reading aloud, feedback from young reader... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. novel books",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-literary-hub-7-trying-to-move-past-the-endless-stereotyping-of-the-rural-americ",
-      "channel": "literature",
-      "type": "essay",
-      "title": "文学观察: Trying to Move Past the Endless Stereotyping of the “Rural American”",
-      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: Trying to Move Past the Endless Stereotyping of the “Rural American”",
-      "titleEn": "Trying to Move Past the Endless Stereotyping of the “Rural American”",
-      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to...",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Literary Hub",
-      "sourceName": "Literary Hub",
-      "sourceUrl": "https://lithub.com/feed/",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://lithub.com/feed/",
-      "url": "https://lithub.com/trying-to-move-past-the-endless-stereotyping-of-the-rural-american/",
-      "publishedAt": "2026-10-16T09:09:29.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "图书"
-      ],
-      "tagsZh": [
-        "图书"
-      ],
-      "tagsEn": [
-        "books"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "expression-reading",
-      "lifeCategoryZh": "阅读表达",
-      "lifeCategoryEn": "Reading and expression",
-      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
-      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
-      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合提升阅读、写作、表达、文化理解和文案能力。",
-        "它来自 Literary Hub，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for reading, writing, communication, culture, and copywriting.",
-        "It comes from Literary Hub, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to...",
-      "originalExcerptEn": "What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to...",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: Trying to Move Past the Endless Stereotyping of the “Rural American” 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 图书",
-      "searchTextEn": "Trying to Move Past the Endless Stereotyping of the “Rural American” What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] What’s something you think national conversations get wrong about rural attitudes or rural people? This is the somewhat dreadful question the publicist for my book asked. She lives in Brooklyn and struggles with what to... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. books",
       "visual": {
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
@@ -2216,7 +1886,7 @@
       "highlight": true
     },
     {
-      "id": "ai-mit-ai-news-1-state-of-supply-chain-sustainability-report-finds-corporate-commitment-at",
+      "id": "ai-mit-ai-news-2-state-of-supply-chain-sustainability-report-finds-corporate-commitment-at",
       "channel": "ai",
       "type": "news",
       "title": "AI研究: State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
@@ -2288,10 +1958,10 @@
         "altZh": "AI频道动态视觉图",
         "altEn": "AI animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "ai-mit-ai-news-2-ai-model-decodes-the-language-cells-use-to-communicate",
+      "id": "ai-mit-ai-news-3-ai-model-decodes-the-language-cells-use-to-communicate",
       "channel": "ai",
       "type": "news",
       "title": "AI研究: AI model decodes the language cells use to communicate",
@@ -2441,6 +2111,306 @@
       "highlight": true
     },
     {
+      "id": "literature-open-culture-2-watch-the-midnight-parasites-a-surreal-japanese-animation-set-in",
+      "channel": "literature",
+      "type": "news",
+      "title": "文学观察: Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
+      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
+      "titleEn": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
+      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Open Culture",
+      "sourceName": "Open Culture",
+      "sourceUrl": "https://www.openculture.com/feed",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://www.openculture.com/feed",
+      "url": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
+      "publishedAt": "2026-10-15T08:00:54.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "文学"
+      ],
+      "tagsZh": [
+        "文学"
+      ],
+      "tagsEn": [
+        "literature"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 Open Culture，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from Open Culture, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu...",
+      "originalExcerptEn": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972) 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
+      "searchTextEn": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972) Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch throu... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-mit-ai-news-4-q-a-the-collision-between-ai-your-brain-and-society",
+      "channel": "ai",
+      "type": "news",
+      "title": "AI研究: Q&A: The “collision” between AI, your brain, and society",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Q&A: The “collision” between AI, your brain, and society",
+      "titleEn": "Q&A: The “collision” between AI, your brain, and society",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
+      "reasonEn": "Useful for understanding how AI moves from research into products.",
+      "source": "MIT AI News",
+      "sourceName": "MIT AI News",
+      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "AI"
+      ],
+      "tagsZh": [
+        "AI"
+      ],
+      "tagsEn": [
+        "AI"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 6,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 MIT AI News，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from MIT AI News, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】In a new book, Professor Eric So explores how the technology affects our thinking skills. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] In a new book, Professor Eric So explores how the technology affects our thinking skills. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+      "originalExcerptEn": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Q&A: The “collision” between AI, your brain, and society 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】In a new book, Professor Eric So explores how the technology affects our thinking skills. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Q&A: The “collision” between AI, your brain, and society In a new book, Professor Eric So explores how the technology affects our thinking skills. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] In a new book, Professor Eric So explores how the technology affects our thinking skills. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-mit-ai-news-5-researchers-improve-weather-forecasts-looking-two-to-six-weeks-out",
+      "channel": "ai",
+      "type": "news",
+      "title": "AI研究: Researchers improve weather forecasts looking two to six weeks out",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Researchers improve weather forecasts looking two to six weeks out",
+      "titleEn": "Researchers improve weather forecasts looking two to six weeks out",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
+      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
+      "reasonEn": "Useful for understanding how AI moves from research into products.",
+      "source": "MIT AI News",
+      "sourceName": "MIT AI News",
+      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "publishedAt": "2026-10-14T15:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "机器学习"
+      ],
+      "tagsZh": [
+        "机器学习"
+      ],
+      "tagsEn": [
+        "machine learning"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 6,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 MIT AI News，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from MIT AI News, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
+      "originalExcerptEn": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Researchers improve weather forecasts looking two to six weeks out 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器学习",
+      "searchTextEn": "Researchers improve weather forecasts looking two to six weeks out A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. machine learning",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "literature-open-culture-3-why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classic",
+      "channel": "literature",
+      "type": "news",
+      "title": "文学观察: Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
+      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
+      "titleEn": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
+      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Open Culture",
+      "sourceName": "Open Culture",
+      "sourceUrl": "https://www.openculture.com/feed",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://www.openculture.com/feed",
+      "url": "https://www.openculture.com/2026/10/why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classics-still-look-so-good.html",
+      "publishedAt": "2026-10-14T09:00:07.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "文学"
+      ],
+      "tagsZh": [
+        "文学"
+      ],
+      "tagsEn": [
+        "literature"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 Open Culture，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from Open Culture, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla...",
+      "originalExcerptEn": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
+      "searchTextEn": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dolla... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": false
+    },
+    {
       "id": "fallback-ai-agent-tools",
       "channel": "ai",
       "type": "news",
@@ -2459,7 +2429,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-10-17T05:36:33.333Z",
+      "publishedAt": "2026-10-18T05:53:58.465Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2540,7 +2510,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-10-17T05:36:33.333Z",
+      "publishedAt": "2026-10-18T05:53:58.465Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2621,7 +2591,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-10-17T05:36:33.333Z",
+      "publishedAt": "2026-10-18T05:53:58.465Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2702,7 +2672,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-17T05:36:33.333Z",
+      "publishedAt": "2026-10-18T05:53:58.465Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2783,7 +2753,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-17T05:36:33.333Z",
+      "publishedAt": "2026-10-18T05:53:58.465Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
