@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:54:09.757Z",
+  "generatedAt": "2026-10-25T06:08:08.743Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -104,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880333/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -185,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785340/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -266,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843391/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -347,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830090/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -428,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830089/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -509,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815512/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815511/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42881014/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42881012/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42874626/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869047/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -995,7 +995,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869046/",
-      "publishedAt": "2026-10-24T05:54:09.715Z",
+      "publishedAt": "2026-10-25T06:08:08.555Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1058,7 +1058,82 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-0-here-s-the-winner-of-the-2026-cundill-history-prize",
+      "id": "literature-literary-hub-0-lit-hub-weekly-october-19-23-2026",
+      "channel": "literature",
+      "type": "essay",
+      "title": "文学观察: Lit Hub Weekly: October 19 – 23, 2026",
+      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: Lit Hub Weekly: October 19 – 23, 2026",
+      "titleEn": "Lit Hub Weekly: October 19 – 23, 2026",
+      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Literary Hub",
+      "sourceName": "Literary Hub",
+      "sourceUrl": "https://lithub.com/feed/",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://lithub.com/feed/",
+      "url": "https://lithub.com/lit-hub-weekly-october-19-23-2026/",
+      "publishedAt": "2026-10-24T10:30:24.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "小说"
+      ],
+      "tagsZh": [
+        "小说"
+      ],
+      "tagsEn": [
+        "novel"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "expression-reading",
+      "lifeCategoryZh": "阅读表达",
+      "lifeCategoryEn": "Reading and expression",
+      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
+      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
+      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“小说”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for novels.",
+      "threePointsZh": [
+        "适合提升阅读、写作、表达、文化理解和文案能力。",
+        "它来自 Literary Hub，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for reading, writing, communication, culture, and copywriting.",
+        "It comes from Literary Hub, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit",
+      "originalExcerptEn": "Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: Lit Hub Weekly: October 19 – 23, 2026 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“小说”相关的生活、学习或职业判断材料。 【站内导读】Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 小说",
+      "searchTextEn": "Lit Hub Weekly: October 19 – 23, 2026 Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for novels. [On-site guide] Meet the authors shortlisted for the 2026 Center for Fiction First Novel Prize. | Lit Hub In Conversation Was Cormac McCarthy that guy in your MFA? | Lit Hub Craft We promise: you really don’t need a smartphone. | Lit First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. novel",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "literature-literary-hub-1-here-s-the-winner-of-the-2026-cundill-history-prize",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Here’s the winner of the 2026 Cundill History Prize.",
@@ -1283,7 +1358,7 @@
       "highlight": true
     },
     {
-      "id": "literature-literary-hub-1-lit-hub-daily-october-23-2026",
+      "id": "literature-literary-hub-2-lit-hub-daily-october-23-2026",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Lit Hub Daily: October 23, 2026",
@@ -1355,10 +1430,10 @@
         "altZh": "文学频道动态视觉图",
         "altEn": "Literature animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
-      "id": "literature-literary-hub-2-what-it-was-like-to-see-nina-simone-at-the-village-gate-c-1961",
+      "id": "literature-literary-hub-3-what-it-was-like-to-see-nina-simone-at-the-village-gate-c-1961",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: What It Was Like to See Nina Simone at the Village Gate, c. 1961",
@@ -1433,7 +1508,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-3-mohammed-massoud-morsi-on-writing-about-palestinian-lives-beyond",
+      "id": "literature-literary-hub-4-mohammed-massoud-morsi-on-writing-about-palestinian-lives-beyond",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Mohammed Massoud Morsi on Writing About Palestinian Lives Beyond the Headlines",
@@ -1508,7 +1583,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-4-why-the-broiler-chicken-is-the-true-symbol-of-the-anthropocene",
+      "id": "literature-literary-hub-5-why-the-broiler-chicken-is-the-true-symbol-of-the-anthropocene",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: Why the Broiler Chicken Is the True Symbol of the Anthropocene",
@@ -1583,7 +1658,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-5-at-the-dinner-table-at-night-a-poem-by-allen-guy-wilcox",
+      "id": "literature-literary-hub-6-at-the-dinner-table-at-night-a-poem-by-allen-guy-wilcox",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: “At the Dinner Table at Night,” a Poem by Allen Guy Wilcox",
@@ -1658,7 +1733,7 @@
       "highlight": false
     },
     {
-      "id": "literature-literary-hub-6-how-a-love-of-salem-and-the-house-of-seven-gables-inspired-my-de",
+      "id": "literature-literary-hub-7-how-a-love-of-salem-and-the-house-of-seven-gables-inspired-my-de",
       "channel": "literature",
       "type": "essay",
       "title": "文学观察: How a Love of Salem and The House of Seven Gables Inspired My Debut Novel",
@@ -1725,81 +1800,6 @@
       "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
       "searchTextZh": "文学观察: How a Love of Salem and The House of Seven Gables Inspired My Debut Novel 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“小说”相关的生活、学习或职业判断材料。 【站内导读】Situated directly on the waterfront of Salem Harbor in Massachusetts, there sits a two-story timber home. The wood is dark, evocative of the traditional First Period architecture of the early colonies. And most notably,... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 小说",
       "searchTextEn": "How a Love of Salem and The House of Seven Gables Inspired My Debut Novel Situated directly on the waterfront of Salem Harbor in Massachusetts, there sits a two-story timber home. The wood is dark, evocative of the traditional First Period architecture of the early colonies. And most notably,... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for novels. [On-site guide] Situated directly on the waterfront of Salem Harbor in Massachusetts, there sits a two-story timber home. The wood is dark, evocative of the traditional First Period architecture of the early colonies. And most notably,... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. novel",
-      "visual": {
-        "imageUrl": "/visuals/literature.svg",
-        "altZh": "文学频道动态视觉图",
-        "altEn": "Literature animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "literature-literary-hub-7-a-hill-of-beans",
-      "channel": "literature",
-      "type": "essay",
-      "title": "文学观察: “A Hill of Beans”",
-      "summary": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "titleZh": "文学观察: “A Hill of Beans”",
-      "titleEn": "“A Hill of Beans”",
-      "summaryZh": "这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
-      "summaryEn": "1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in",
-      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
-      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
-      "source": "Literary Hub",
-      "sourceName": "Literary Hub",
-      "sourceUrl": "https://lithub.com/feed/",
-      "sourceChannel": "literature",
-      "fetchMethod": "RSS",
-      "foundAt": "https://lithub.com/feed/",
-      "url": "https://lithub.com/a-hill-of-beans/",
-      "publishedAt": "2026-10-23T08:58:00.000Z",
-      "dateLabel": "published",
-      "tags": [
-        "文学"
-      ],
-      "tagsZh": [
-        "文学"
-      ],
-      "tagsEn": [
-        "literature"
-      ],
-      "credibility": "文学文化来源",
-      "credibilityZh": "文学文化来源",
-      "credibilityEn": "Literary and cultural source",
-      "journal": "",
-      "sourceTier": "open-source",
-      "priority": 0,
-      "sourceFormat": "article",
-      "studentLevel": "easy",
-      "estimatedMinutes": 8,
-      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
-      "learningActionEn": "A quick read for building a foundation for today.",
-      "lifeCategory": "expression-reading",
-      "lifeCategoryZh": "阅读表达",
-      "lifeCategoryEn": "Reading and expression",
-      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
-      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
-      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "适合提升阅读、写作、表达、文化理解和文案能力。",
-        "它来自 Literary Hub，不是随机生成的话题。",
-        "先看摘要和来源，再决定是否打开原文继续读。"
-      ],
-      "threePointsEn": [
-        "Useful for reading, writing, communication, culture, and copywriting.",
-        "It comes from Literary Hub, not from an empty topic shell.",
-        "Read the summary and source before opening the original."
-      ],
-      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
-      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
-      "readOnSiteZh": "【站内导读】1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
-      "readOnSiteEn": "[On-site guide] 1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original..",
-      "originalExcerptZh": "1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in",
-      "originalExcerptEn": "1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in",
-      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
-      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
-      "searchTextZh": "文学观察: “A Hill of Beans” 这条内容来自 Literary Hub，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Literary Hub，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
-      "searchTextEn": "“A Hill of Beans” 1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] 1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Literary Hub, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
       "visual": {
         "imageUrl": "/visuals/literature.svg",
         "altZh": "文学频道动态视觉图",
@@ -2426,7 +2426,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-10-24T05:54:09.757Z",
+      "publishedAt": "2026-10-25T06:08:08.743Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2507,7 +2507,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-10-24T05:54:09.757Z",
+      "publishedAt": "2026-10-25T06:08:08.743Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2588,7 +2588,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-10-24T05:54:09.757Z",
+      "publishedAt": "2026-10-25T06:08:08.743Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2669,7 +2669,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-24T05:54:09.757Z",
+      "publishedAt": "2026-10-25T06:08:08.743Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2750,7 +2750,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-10-24T05:54:09.757Z",
+      "publishedAt": "2026-10-25T06:08:08.743Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
