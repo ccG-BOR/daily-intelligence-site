@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:20:27.875Z",
+  "generatedAt": "2026-11-09T07:58:25.552Z",
   "status": "live",
   "notices": [
     "医学健康内容仅供学习研究，不替代专业医疗建议。",
@@ -86,411 +86,6 @@
   ],
   "items": [
     {
-      "id": "health-pubmed-42805306",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Effect of walking slope on cognitive performance. Electrophysiological evidence of dual-task interference.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Effect of walking slope on cognitive performance. Electrophysiological evidence of dual-task interference.",
-      "titleEn": "Effect of walking slope on cognitive performance. Electrophysiological evidence of dual-task interference.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Behavioural brain research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805306/",
-      "publishedAt": "2026-11-08T07:20:27.874Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Behavioural brain research",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c...",
-      "originalExcerptEn": "The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Effect of walking slope on cognitive performance. Electrophysiological evidence of dual-task interference. 这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Effect of walking slope on cognitive performance. Electrophysiological evidence of dual-task interference. The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] The neural basis of cognitive-motor dual-tasking (CMDT), which involves the simultaneous performance of motor and cognitive tasks, has received increasing attention. However, the electrophysiological impact of walking c... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": true
-    },
-    {
-      "id": "health-pubmed-42785479",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Enhanced agonist intermuscular coherence supports improvements in force steadiness driven by motor imagery training during aging.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Enhanced agonist intermuscular coherence supports improvements in force steadiness driven by motor imagery training during aging.",
-      "titleEn": "Enhanced agonist intermuscular coherence supports improvements in force steadiness driven by motor imagery training during aging.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Behavioural brain research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785479/",
-      "publishedAt": "2026-11-08T07:20:27.874Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Behavioural brain research",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr...",
-      "originalExcerptEn": "Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Enhanced agonist intermuscular coherence supports improvements in force steadiness driven by motor imagery training during aging. 这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Enhanced agonist intermuscular coherence supports improvements in force steadiness driven by motor imagery training during aging. Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Despite advances in understanding of motor-related cortical network contributions to improvements in motor performance following motor imagery, few studies have considered older adults and how long-term motor imagery tr... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42892230",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 数据与证据 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms.",
-      "titleEn": "Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 数据与证据 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Biosensors & bioelectronics",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892230/",
-      "publishedAt": "2026-11-08T07:20:27.874Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Biosensors & bioelectronics",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for data and evidence.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr...",
-      "originalExcerptEn": "Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms. 这条内容来自 PubMed Exercise Cognition，与 数据与证据 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“数据与证据”相关的生活、学习或职业判断材料。 【站内导读】Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms. Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for data and evidence. [On-site guide] Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attr... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42868918",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: The effect of balance training on cognitive function in older adults with and without cognitive impairment: A systematic review and meta-analysis.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: The effect of balance training on cognitive function in older adults with and without cognitive impairment: A systematic review and meta-analysis.",
-      "titleEn": "The effect of balance training on cognitive function in older adults with and without cognitive impairment: A systematic review and meta-analysis.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Archives of gerontology and geriatrics",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42868918/",
-      "publishedAt": "2026-11-08T07:20:27.874Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Archives of gerontology and geriatrics",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“运动”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for exercise.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun...",
-      "originalExcerptEn": "Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: The effect of balance training on cognitive function in older adults with and without cognitive impairment: A systematic review and meta-analysis. 这条内容来自 PubMed Exercise Cognition，与 运动 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“运动”相关的生活、学习或职业判断材料。 【站内导读】Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "The effect of balance training on cognitive function in older adults with and without cognitive impairment: A systematic review and meta-analysis. Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for exercise. [On-site guide] Exercise training has demonstrated benefits for cognitive function in older adults; however, most evidence is derived from aerobic or resistance exercises. To investigate the effects of balance training on cognitive fun... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
-      "id": "health-pubmed-42778068",
-      "channel": "health",
-      "type": "paper",
-      "title": "医学健康文献: Normative values of the Three-Factor Eating Questionnaire -R18 in three Northern Finland cohort populations by sex and BMI classes.",
-      "summary": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "titleZh": "医学健康文献: Normative values of the Three-Factor Eating Questionnaire -R18 in three Northern Finland cohort populations by sex and BMI classes.",
-      "titleEn": "Normative values of the Three-Factor Eating Questionnaire -R18 in three Northern Finland cohort populations by sex and BMI classes.",
-      "summaryZh": "这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。",
-      "summaryEn": "The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th...",
-      "reasonZh": "适合学习医学健康证据，但需要结合原文谨慎判断。",
-      "reasonEn": "Useful for studying medical evidence, but interpret with the original source.",
-      "source": "PubMed Exercise Cognition",
-      "sourceName": "PubMed Exercise Cognition",
-      "sourceUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28exercise+cognitive+health%29+AND+%28%22last+14+days%22%5BPDat%5D%29&retmode=json&retmax=5&sort=pub_date",
-      "sourceChannel": "health",
-      "fetchMethod": "PubMed API",
-      "foundAt": "PubMed / Appetite",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778068/",
-      "publishedAt": "2026-11-08T07:20:27.874Z",
-      "dateLabel": "collected",
-      "tags": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsZh": [
-        "运动",
-        "认知健康",
-        "证据"
-      ],
-      "tagsEn": [
-        "exercise",
-        "cognitive health",
-        "evidence"
-      ],
-      "credibility": "医学文献索引",
-      "credibilityZh": "医学文献索引",
-      "credibilityEn": "Medical literature index",
-      "journal": "Appetite",
-      "sourceTier": "medical-index",
-      "priority": 10,
-      "sourceFormat": "article",
-      "studentLevel": "guided",
-      "estimatedMinutes": 15,
-      "learningActionZh": "先读中文导读，再重点查看摘要、研究对象和结论边界。",
-      "learningActionEn": "Read the guide first, then focus on the abstract, participants, and limits.",
-      "lifeCategory": "life-health",
-      "lifeCategoryZh": "生活健康",
-      "lifeCategoryEn": "Everyday health",
-      "lifeCategoryReasonZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-      "lifeCategoryReasonEn": "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-      "lifeRelevanceZh": "和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
-      "lifeRelevanceEn": "Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field.",
-      "threePointsZh": [
-        "和睡眠、运动、饮食、压力管理等日常生活直接相关。",
-        "它来自 PubMed Exercise Cognition，不是随机生成的话题。",
-        "医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。"
-      ],
-      "threePointsEn": [
-        "Connected to sleep, exercise, diet, stress, or everyday health habits.",
-        "It comes from PubMed Exercise Cognition, not from an empty topic shell.",
-        "Check population, evidence type, and limits before applying it personally."
-      ],
-      "studentTakeawayZh": "先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。",
-      "studentTakeawayEn": "Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional.",
-      "readOnSiteZh": "【站内导读】The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。",
-      "readOnSiteEn": "[On-site guide] The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally..",
-      "originalExcerptZh": "The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th...",
-      "originalExcerptEn": "The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th...",
-      "useForZh": "适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。",
-      "useForEn": "Good for health literacy, class discussion, and topic selection, not diagnosis.",
-      "searchTextZh": "医学健康文献: Normative values of the Three-Factor Eating Questionnaire -R18 in three Northern Finland cohort populations by sex and BMI classes. 这条内容来自 PubMed Exercise Cognition，与 该领域的新进展 相关。阅读时请关注研究类型、样本量、适用人群和结论边界。 生活健康 和睡眠、运动、饮食、压力管理等日常生活直接相关。 和睡眠、运动、饮食、压力管理等日常生活直接相关。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th... 你可以先记住三件事：和睡眠、运动、饮食、压力管理等日常生活直接相关。；它来自 PubMed Exercise Cognition，不是随机生成的话题。；医学健康内容要看研究对象、样本和结论边界，不能直接当成个人诊断。。 先理解结论说了什么，再看它适不适合自己的年龄、身体情况和生活场景。遇到健康问题仍要咨询专业人员。 适合做健康常识学习、课堂讨论、选题素材，不适合替代诊断。 运动 认知健康 证据",
-      "searchTextEn": "Normative values of the Three-Factor Eating Questionnaire -R18 in three Northern Finland cohort populations by sex and BMI classes. The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th... Everyday health Connected to sleep, exercise, diet, stress, or everyday health habits. Connected to sleep, exercise, diet, stress, or everyday health habits. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] The revised Three-Factor Eating Questionnaire -18 (TFEQ-R18) is used to assess eating behaviour in weight management, obesity, and epidemiological studies. We provided sex-specific normative values as percentiles for th... First remember: Connected to sleep, exercise, diet, stress, or everyday health habits.; It comes from PubMed Exercise Cognition, not from an empty topic shell.; Check population, evidence type, and limits before applying it personally.. Understand the claim first, then check whether it applies to your age, health status, and situation. For care decisions, ask a professional. Good for health literacy, class discussion, and topic selection, not diagnosis. exercise cognitive health evidence",
-      "visual": {
-        "imageUrl": "/visuals/health.svg",
-        "altZh": "医学健康频道动态视觉图",
-        "altEn": "Medical Health animated visual"
-      },
-      "highlight": false
-    },
-    {
       "id": "health-pubmed-42880333",
       "channel": "health",
       "type": "paper",
@@ -509,7 +104,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880333/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -590,7 +185,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785340/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -671,7 +266,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42971236/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -752,7 +347,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42971235/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -833,7 +428,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42971232/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -914,7 +509,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42971231/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -995,7 +590,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The Lancet. Global health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843391/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1076,7 +671,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950872/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1157,7 +752,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950871/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1238,7 +833,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950870/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1319,7 +914,7 @@
       "fetchMethod": "PubMed API",
       "foundAt": "PubMed / The lancet. Healthy longevity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950869/",
-      "publishedAt": "2026-11-08T07:20:26.795Z",
+      "publishedAt": "2026-11-09T07:58:25.367Z",
       "dateLabel": "collected",
       "tags": [
         "柳叶刀",
@@ -1378,6 +973,162 @@
         "imageUrl": "/visuals/health.svg",
         "altZh": "医学健康频道动态视觉图",
         "altEn": "Medical Health animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-mit-ai-news-0-a-single-ai-model-simulates-the-behavior-of-many-substances-from-sliding-",
+      "channel": "ai",
+      "type": "news",
+      "title": "AI研究: A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "titleEn": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
+      "reasonEn": "Useful for understanding how AI moves from research into products.",
+      "source": "MIT AI News",
+      "sourceName": "MIT AI News",
+      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "机器人",
+        "机器学习"
+      ],
+      "tagsZh": [
+        "机器人",
+        "机器学习"
+      ],
+      "tagsEn": [
+        "robotics",
+        "machine learning"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 6,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 MIT AI News，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from MIT AI News, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "originalExcerptEn": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: A single AI model simulates the behavior of many substances, from sliding sand to folding proteins 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器人 机器学习",
+      "searchTextEn": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. robotics machine learning",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": true
+    },
+    {
+      "id": "ai-mit-ai-news-1-ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands",
+      "channel": "ai",
+      "type": "news",
+      "title": "AI研究: AI-assisted learning platform helps robots reason beyond literal commands",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: AI-assisted learning platform helps robots reason beyond literal commands",
+      "titleEn": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
+      "reasonEn": "Useful for understanding how AI moves from research into products.",
+      "source": "MIT AI News",
+      "sourceName": "MIT AI News",
+      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "机器人",
+        "机器学习"
+      ],
+      "tagsZh": [
+        "机器人",
+        "机器学习"
+      ],
+      "tagsEn": [
+        "robotics",
+        "machine learning"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 6,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 MIT AI News，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from MIT AI News, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "originalExcerptEn": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: AI-assisted learning platform helps robots reason beyond literal commands 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 机器人 机器学习",
+      "searchTextEn": "AI-assisted learning platform helps robots reason beyond literal commands The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. robotics machine learning",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
       },
       "highlight": true
     },
@@ -1607,7 +1358,7 @@
       "highlight": false
     },
     {
-      "id": "ai-mit-ai-news-0-how-to-predict-the-behavior-of-molecules-from-scant-data",
+      "id": "ai-mit-ai-news-2-how-to-predict-the-behavior-of-molecules-from-scant-data",
       "channel": "ai",
       "type": "news",
       "title": "AI研究: How to predict the behavior of molecules from scant data",
@@ -1679,7 +1430,7 @@
         "altZh": "AI频道动态视觉图",
         "altEn": "AI animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "literature-literary-hub-3-lit-hub-daily-november-6-2026",
@@ -2282,7 +2033,7 @@
       "highlight": false
     },
     {
-      "id": "ai-mit-ai-news-1-clearing-up-a-robot-s-fuzzy-memory",
+      "id": "ai-mit-ai-news-3-clearing-up-a-robot-s-fuzzy-memory",
       "channel": "ai",
       "type": "news",
       "title": "AI研究: Clearing up a robot’s fuzzy memory",
@@ -2354,7 +2105,7 @@
         "altZh": "AI频道动态视觉图",
         "altEn": "AI animated visual"
       },
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "literature-open-culture-3-if-fritz-lang-s-iconic-film-metropolis-had-a-kraftwerk-soundtrac",
@@ -2432,6 +2183,231 @@
       "highlight": false
     },
     {
+      "id": "literature-open-culture-4-a-new-search-engine-lets-you-explore-4-million-works-of-art-hist",
+      "channel": "literature",
+      "type": "news",
+      "title": "文学观察: A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World",
+      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World",
+      "titleEn": "A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World",
+      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Open Culture",
+      "sourceName": "Open Culture",
+      "sourceUrl": "https://www.openculture.com/feed",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://www.openculture.com/feed",
+      "url": "https://www.openculture.com/2026/11/a-new-search-engine-lets-you-explore-4-million-works-of-art.html",
+      "publishedAt": "2026-11-04T10:00:55.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "文学"
+      ],
+      "tagsZh": [
+        "文学"
+      ],
+      "tagsEn": [
+        "literature"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 Open Culture，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from Open Culture, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever...",
+      "originalExcerptEn": "We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever... 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 文学",
+      "searchTextEn": "A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever... Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever... First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. literature",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "ai-mit-ai-news-4-building-connections-across-the-research-infrastructure",
+      "channel": "ai",
+      "type": "news",
+      "title": "AI研究: Building connections across the research infrastructure",
+      "summary": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "titleZh": "AI研究: Building connections across the research infrastructure",
+      "titleEn": "Building connections across the research infrastructure",
+      "summaryZh": "这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。",
+      "summaryEn": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+      "reasonZh": "适合了解 AI 技术从研究走向产品的趋势。",
+      "reasonEn": "Useful for understanding how AI moves from research into products.",
+      "source": "MIT AI News",
+      "sourceName": "MIT AI News",
+      "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "sourceChannel": "ai",
+      "fetchMethod": "RSS",
+      "foundAt": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+      "publishedAt": "2026-11-03T19:30:00.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "AI"
+      ],
+      "tagsZh": [
+        "AI"
+      ],
+      "tagsEn": [
+        "AI"
+      ],
+      "credibility": "公开资讯来源",
+      "credibilityZh": "公开资讯来源",
+      "credibilityEn": "Open information source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 6,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "study-career",
+      "lifeCategoryZh": "学习就业",
+      "lifeCategoryEn": "Study and jobs",
+      "lifeCategoryReasonZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+      "lifeCategoryReasonEn": "Useful for AI tools, study efficiency, job changes, and digital skills.",
+      "lifeRelevanceZh": "适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合用来理解 AI 工具、学习效率、职业变化和数字技能。",
+        "它来自 MIT AI News，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for AI tools, study efficiency, job changes, and digital skills.",
+        "It comes from MIT AI News, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+      "originalExcerptEn": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+      "useForZh": "适合做 AI 工具观察、课程展示、就业技能和数字素养积累。",
+      "useForEn": "Good for AI tool awareness, class presentation, employability skills, and digital literacy.",
+      "searchTextZh": "AI研究: Building connections across the research infrastructure 这条内容来自 MIT AI News，主题聚焦 该领域的新进展。建议重点查看原文中的方法、数据来源、评估指标和应用边界。 学习就业 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 适合用来理解 AI 工具、学习效率、职业变化和数字技能。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected. 你可以先记住三件事：适合用来理解 AI 工具、学习效率、职业变化和数字技能。；它来自 MIT AI News，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做 AI 工具观察、课程展示、就业技能和数字素养积累。 AI",
+      "searchTextEn": "Building connections across the research infrastructure MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected. Study and jobs Useful for AI tools, study efficiency, job changes, and digital skills. Useful for AI tools, study efficiency, job changes, and digital skills. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected. First remember: Useful for AI tools, study efficiency, job changes, and digital skills.; It comes from MIT AI News, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for AI tool awareness, class presentation, employability skills, and digital literacy. AI",
+      "visual": {
+        "imageUrl": "/visuals/ai.svg",
+        "altZh": "AI频道动态视觉图",
+        "altEn": "AI animated visual"
+      },
+      "highlight": false
+    },
+    {
+      "id": "literature-open-culture-5-the-san-francisco-public-library-launches-a-free-online-archive-",
+      "channel": "literature",
+      "type": "news",
+      "title": "文学观察: The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download",
+      "summary": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "titleZh": "文学观察: The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download",
+      "titleEn": "The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download",
+      "summaryZh": "这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。",
+      "summaryEn": "Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the...",
+      "reasonZh": "适合发现文学研究、出版和文化讨论的新线索。",
+      "reasonEn": "Useful for discovering new leads in literary research, publishing, and cultural debate.",
+      "source": "Open Culture",
+      "sourceName": "Open Culture",
+      "sourceUrl": "https://www.openculture.com/feed",
+      "sourceChannel": "literature",
+      "fetchMethod": "RSS",
+      "foundAt": "https://www.openculture.com/feed",
+      "url": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
+      "publishedAt": "2026-11-03T10:00:29.000Z",
+      "dateLabel": "published",
+      "tags": [
+        "档案"
+      ],
+      "tagsZh": [
+        "档案"
+      ],
+      "tagsEn": [
+        "archive"
+      ],
+      "credibility": "文学文化来源",
+      "credibilityZh": "文学文化来源",
+      "credibilityEn": "Literary and cultural source",
+      "journal": "",
+      "sourceTier": "open-source",
+      "priority": 0,
+      "sourceFormat": "article",
+      "studentLevel": "easy",
+      "estimatedMinutes": 8,
+      "learningActionZh": "适合快速阅读，用于建立当天的基础认识。",
+      "learningActionEn": "A quick read for building a foundation for today.",
+      "lifeCategory": "expression-reading",
+      "lifeCategoryZh": "阅读表达",
+      "lifeCategoryEn": "Reading and expression",
+      "lifeCategoryReasonZh": "适合提升阅读、写作、表达、文化理解和文案能力。",
+      "lifeCategoryReasonEn": "Useful for reading, writing, communication, culture, and copywriting.",
+      "lifeRelevanceZh": "适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。",
+      "lifeRelevanceEn": "Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field.",
+      "threePointsZh": [
+        "适合提升阅读、写作、表达、文化理解和文案能力。",
+        "它来自 Open Culture，不是随机生成的话题。",
+        "先看摘要和来源，再决定是否打开原文继续读。"
+      ],
+      "threePointsEn": [
+        "Useful for reading, writing, communication, culture, and copywriting.",
+        "It comes from Open Culture, not from an empty topic shell.",
+        "Read the summary and source before opening the original."
+      ],
+      "studentTakeawayZh": "先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。",
+      "studentTakeawayEn": "Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword.",
+      "readOnSiteZh": "【站内导读】Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。",
+      "readOnSiteEn": "[On-site guide] Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original..",
+      "originalExcerptZh": "Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the...",
+      "originalExcerptEn": "Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the...",
+      "useForZh": "适合做阅读笔记、写作素材、表达训练和文化话题积累。",
+      "useForEn": "Good for reading notes, writing material, communication practice, and culture topics.",
+      "searchTextZh": "文学观察: The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download 这条内容来自 Open Culture，可作为文学研究、出版动态或文化讨论的阅读线索。建议结合原文判断材料价值。 阅读表达 适合提升阅读、写作、表达、文化理解和文案能力。 适合提升阅读、写作、表达、文化理解和文案能力。 对大专生来说，可以把它当作“该领域的新进展”相关的生活、学习或职业判断材料。 【站内导读】Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the... 你可以先记住三件事：适合提升阅读、写作、表达、文化理解和文案能力。；它来自 Open Culture，不是随机生成的话题。；先看摘要和来源，再决定是否打开原文继续读。。 先用这条内容建立基本认识，再挑一个能马上尝试的小行动，例如试一个工具、写一段总结或查一个关键词。 适合做阅读笔记、写作素材、表达训练和文化话题积累。 档案",
+      "searchTextEn": "The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the... Reading and expression Useful for reading, writing, communication, culture, and copywriting. Useful for reading, writing, communication, culture, and copywriting. For vocational college readers, use it as practical context for new developments in this field. [On-site guide] Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the... First remember: Useful for reading, writing, communication, culture, and copywriting.; It comes from Open Culture, not from an empty topic shell.; Read the summary and source before opening the original.. Use this as a starting point, then try one small action: test a tool, write a summary, or search one keyword. Good for reading notes, writing material, communication practice, and culture topics. archive",
+      "visual": {
+        "imageUrl": "/visuals/literature.svg",
+        "altZh": "文学频道动态视觉图",
+        "altEn": "Literature animated visual"
+      },
+      "highlight": false
+    },
+    {
       "id": "fallback-ai-agent-tools",
       "channel": "ai",
       "type": "news",
@@ -2450,7 +2426,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://news.mit.edu/topic/artificial-intelligence2",
-      "publishedAt": "2026-11-08T07:20:27.875Z",
+      "publishedAt": "2026-11-09T07:58:25.551Z",
       "dateLabel": "published",
       "tags": [
         "Agent",
@@ -2531,7 +2507,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://lithub.com/",
-      "publishedAt": "2026-11-08T07:20:27.875Z",
+      "publishedAt": "2026-11-09T07:58:25.551Z",
       "dateLabel": "published",
       "tags": [
         "文学批评",
@@ -2612,7 +2588,7 @@
       "fetchMethod": "Fallback seed",
       "foundAt": "Local fallback list",
       "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+metabolic+mental+health",
-      "publishedAt": "2026-11-08T07:20:27.875Z",
+      "publishedAt": "2026-11-09T07:58:25.551Z",
       "dateLabel": "published",
       "tags": [
         "睡眠",
@@ -2693,7 +2669,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-11-08T07:20:27.875Z",
+      "publishedAt": "2026-11-09T07:58:25.551Z",
       "dateLabel": "published",
       "tags": [
         "AI入门",
@@ -2774,7 +2750,7 @@
       "fetchMethod": "Curated public video fallback",
       "foundAt": "TED-Ed public video channel",
       "url": "https://www.youtube.com/@TEDEd/videos",
-      "publishedAt": "2026-11-08T07:20:27.875Z",
+      "publishedAt": "2026-11-09T07:58:25.551Z",
       "dateLabel": "published",
       "tags": [
         "健康科普",
